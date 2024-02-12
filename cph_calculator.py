@@ -28,8 +28,11 @@ CPH:
 
 	Per Hour = Collected_items_count * 60 / minutes_taken
 
+source:
+    https://pythonspot.com/read-file/
 '''
 from datetime import datetime
+
 # import pdb
 
 
@@ -66,15 +69,24 @@ def calculate_output(input_data):
 
     return int(output)
 
+def read_custom_file():
+    f = open("data.txt", "r")
+    line = f.read()
+    print(line)
+
+    return line
 
 def startpy():
 
     # print("Tact101")
 
     # Sample input
-    sample_input = """s: 06:48
-    e: 07:03
-    c: 112"""
+#     sample_input = """s: 06:18
+# e: 07:03
+# c: 712
+# """
+
+    sample_input = read_custom_file()
 
     print("Output:", calculate_output(sample_input))
         
