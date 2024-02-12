@@ -1,0 +1,80 @@
+'''
+Created on 
+
+@author: Raja CSP Raman
+
+source:
+    
+
+business:
+CPH Calculator
+
+CPH - Collection Per Hour
+
+Sample:
+s: 06:48
+e: 07:03
+c: 112
+
+s - started
+e - ended
+c - collected
+
+CPH:
+	took 15 minutes to collect 112 items
+
+	1m = 112/15 = 7.466666667
+	60m = 7.466666667 * 60 = 448
+
+	Per Hour = Collected_items_count * 60 / minutes_taken
+
+'''
+from datetime import datetime
+# import pdb
+
+
+#def get_cph(input_text):
+def calculate_time_difference(start_time, end_time):
+
+    fmt     = '%H:%M'
+    start   = datetime.strptime(start_time, fmt)
+    end     = datetime.strptime(end_time, fmt)
+    difference = end - start
+    
+    return difference.total_seconds() / 60  # Convert to minutes
+
+def calculate_output(input_data):
+
+    lines       = input_data.split('\n')
+    print(f"lines : {lines}")
+    # print(type(lines))
+
+    print(f"lines(0) : {lines[0]}")
+
+    start_time  = lines[0].split(': ')[1]
+
+    end_time    = lines[1].split(': ')[1]
+    value       = int(lines[2].split(': ')[1])
+
+    print(f"start_time : {start_time}")
+    print(f"end_time : {end_time}")
+    
+    duration_minutes    = calculate_time_difference(start_time, end_time)
+    output              = duration_minutes * value
+    return int(output)
+
+
+def startpy():
+
+    # print("Tact101")
+
+    # Sample input
+    sample_input = """s: 06:48
+    e: 07:03
+    c: 112"""
+
+    print("Output:", calculate_output(sample_input))
+        
+
+if __name__ == '__main__':
+    startpy()
