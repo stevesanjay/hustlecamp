@@ -54,13 +54,16 @@ def calculate_output(input_data):
     start_time  = lines[0].split(': ')[1]
 
     end_time    = lines[1].split(': ')[1]
-    value       = int(lines[2].split(': ')[1])
+    collected_items_count       = int(lines[2].split(': ')[1])
 
     print(f"start_time : {start_time}")
     print(f"end_time : {end_time}")
     
-    duration_minutes    = calculate_time_difference(start_time, end_time)
-    output              = duration_minutes * value
+    
+    minutes_taken    = calculate_time_difference(start_time, end_time)
+    print(f"minutes_taken : {minutes_taken}")
+    output           = collected_items_count * 60 / minutes_taken
+
     return int(output)
 
 
