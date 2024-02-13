@@ -7,6 +7,7 @@ source:
     https://stackoverflow.com/questions/370357/python-variable-scope-error
 '''
 import random
+import sys
 from faker import Faker
 
 faker = Faker()
@@ -19,7 +20,7 @@ def generate_random_name(limit):
     limit(int)
     """
     with open('name.txt', 'a') as f:
-        for i in range(100):
+        for i in range(limit):
             fake_name = faker.name()
             print(fake_name)
             f.write(fake_name + '\n')
@@ -28,8 +29,8 @@ def generate_random_name(limit):
     
 
 def startpy():
-
-    generate_random_name(3)
+    limit = int(sys.argv[1])
+    generate_random_name(limit)
 
     #  11. Team Allocation (2 - 10 members)
     # num_members = random.randint(2,10)
