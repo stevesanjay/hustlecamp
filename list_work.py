@@ -8,8 +8,8 @@ source:
 '''
 import random
 from faker import Faker
-rand_date = faker.date_time()
 
+faker = Faker()
 
 def generate_random_name(limit):
     """
@@ -18,12 +18,6 @@ def generate_random_name(limit):
     parameter:
     limit(int)
     """
-
-    random_names = [faker.name()
-     for i in range(limit)]
-
-    return random_names
-
     with open('name.txt', 'a') as f:
         for i in range(100):
             fake_name = faker.name()
@@ -34,8 +28,6 @@ def generate_random_name(limit):
     
 
 def startpy():
-
-    faker = Faker()
 
     generate_random_name(3)
 
