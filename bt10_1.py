@@ -1,4 +1,5 @@
-# Equality Comparison (==):
+# Comparison Operators
+# # Equality Comparison (==):
 
 x = 5
 y = 7
