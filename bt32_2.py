@@ -1,10 +1,13 @@
-# Defining a Simple Class:
+# Accessing Parent Class Methods:
 
-class Car:
-    def __init__(self, make, model, year):
-        self.make = make
-        self.model = model
-        self.year = year
+class Animal:
+    def speak(self):
+        print("Animal speaks")
 
-my_car = Car("Toyota", "Camry", 2020)
-print(my_car.make, my_car.model, my_car.year)
+class Dog(Animal):
+    def bark(self):
+        super().speak()  # Call the parent class method
+        print("Dog barks")
+
+dog = Dog()
+dog.bark()   # Output: Animal speaks \n Dog barks

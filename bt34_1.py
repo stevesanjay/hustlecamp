@@ -1,10 +1,23 @@
-# Defining a Simple Class:
+# Basic Encapsulation:
 
-class Car:
-    def __init__(self, make, model, year):
-        self.make = make
-        self.model = model
-        self.year = year
+class BankAccount:
+    def __init__(self, balance):
+        self.__balance = balance  # Encapsulated attribute
 
-my_car = Car("Toyota", "Camry", 2020)
-print(my_car.make, my_car.model, my_car.year)
+    def deposit(self, amount):
+        self.__balance += amount
+
+    def withdraw(self, amount):
+        if self.__balance >= amount:
+            self.__balance -= amount
+        else:
+            print("Insufficient funds")
+
+    def get_balance(self):
+        return self.__balance
+
+
+account = BankAccount(1000)
+account.deposit(500)
+account.withdraw(200)
+print("Current balance:", account.get_balance())  # Output: 1300

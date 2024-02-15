@@ -1,21 +1,15 @@
-# Overriding __add__ Method:
+# _add_: Defines the behavior of the addition operation for objects.
+
 
 class Vector:
     def __init__(self, x, y):
         self.x = x
         self.y = y
-
+    
     def __add__(self, other):
         return Vector(self.x + other.x, self.y + other.y)
 
-    def __str__(self):
-        return f"({self.x}, {self.y})"
-
-# Creating vectors
 v1 = Vector(2, 3)
-v2 = Vector(4, 5)
-
-# Adding vectors
+v2 = Vector(1, 2)
 result = v1 + v2
-
-print(result)  # Output: (6, 8)
+print(result.x, result.y)  # Output: 3 5

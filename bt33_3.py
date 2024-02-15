@@ -1,10 +1,18 @@
-# Defining a Simple Class:
+# Overriding Built-in Methods:
 
-class Car:
-    def __init__(self, make, model, year):
-        self.make = make
-        self.model = model
-        self.year = year
+class MyList(list):
+    def append(self, element):
+        print("Appending element:", element)
+        super().append(element)
 
-my_car = Car("Toyota", "Camry", 2020)
-print(my_car.make, my_car.model, my_car.year)
+# Creating object
+my_list = MyList()
+
+# Appending elements
+my_list.append(1)
+my_list.append(2)
+# Output:
+# Appending element: 1
+# Appending element: 2
+
+print(my_list)  # Output: [1, 2]

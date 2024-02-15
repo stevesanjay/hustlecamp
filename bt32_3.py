@@ -1,10 +1,18 @@
-# Defining a Simple Class:
+# Multiple Inheritance:
 
-class Car:
-    def __init__(self, make, model, year):
-        self.make = make
-        self.model = model
-        self.year = year
+class A:
+    def method_a(self):
+        print("Method A")
 
-my_car = Car("Toyota", "Camry", 2020)
-print(my_car.make, my_car.model, my_car.year)
+class B:
+    def method_b(self):
+        print("Method B")
+
+class C(A, B):
+    def method_c(self):
+        print("Method C")
+
+c = C()
+c.method_a()  # Output: Method A
+c.method_b()  # Output: Method B
+c.method_c()  # Output: Method C

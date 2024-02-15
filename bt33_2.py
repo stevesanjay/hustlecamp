@@ -1,10 +1,19 @@
-# Defining a Simple Class:
+# Accessing Parent Class Method in Child Class:
 
-class Car:
-    def __init__(self, make, model, year):
-        self.make = make
-        self.model = model
-        self.year = year
+class Parent:
+    def display(self):
+        print("Parent class method")
 
-my_car = Car("Toyota", "Camry", 2020)
-print(my_car.make, my_car.model, my_car.year)
+class Child(Parent):
+    def display(self):
+        super().display()  # Calling parent class method
+        print("Child class method")
+
+# Creating object
+child_obj = Child()
+
+# Calling method
+child_obj.display()
+# Output:
+# Parent class method
+# Child class method

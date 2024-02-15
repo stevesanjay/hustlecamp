@@ -1,10 +1,18 @@
-# Defining a Simple Class:
+# Hierarchical Inheritance:
 
-class Car:
-    def __init__(self, make, model, year):
-        self.make = make
-        self.model = model
-        self.year = year
+class Animal:
+    def speak(self):
+        print("Animal speaks")
 
-my_car = Car("Toyota", "Camry", 2020)
-print(my_car.make, my_car.model, my_car.year)
+class Dog(Animal):
+    def bark(self):
+        print("Dog barks")
+
+class Cat(Animal):
+    def meow(self):
+        print("Cat meows")
+
+dog = Dog()
+cat = Cat()
+dog.speak()  # Output: Animal speaks
+cat.speak()  # Output: Animal speaks

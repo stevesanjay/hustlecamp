@@ -1,10 +1,10 @@
-# Defining a Simple Class:
+# Instance Variable Example:
 
 class Car:
-    def __init__(self, make, model, year):
+    def __init__(self, make, model):
         self.make = make
         self.model = model
-        self.year = year
 
-my_car = Car("Toyota", "Camry", 2020)
-print(my_car.make, my_car.model, my_car.year)
+car1 = Car("Toyota", "Corolla")
+print(car1.make)   # Output: Toyota
+print(car1.model)  # Output: Corolla
