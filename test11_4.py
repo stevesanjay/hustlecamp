@@ -1,10 +1,21 @@
-is_today ="sunny"
-then_tomorrow ="cloudy"
+# is_today ="sunny"
+# then_tomorrow ="cloudy"
  
-if is_today == "sunny":
-    print("today sunny")
+# if is_today == "sunny":
+#     print("today sunny")
+# else:
+#     print("sorry ,tomorrow cloudy")
+
+
+
+homework_finsih = "student1"
+homework_notfinsih = "student2"
+
+if homework_finsih == "student2":
+    print("good")
 else:
-    print("sorry ,tomorrow cloudy")
+    for i in range (10):
+        print("sorry")
 
 
 

@@ -1,6 +1,8 @@
 # Print Statements:
 
 def divide(x, y):
+    x = 10
+    y = 2
     result = x / y
     print("Result:", result)
     return result

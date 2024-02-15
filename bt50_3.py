@@ -1,5 +1,6 @@
 # Using try and except Blocks:
 
+
 def divide(x, y):
     try:
         result = x / y

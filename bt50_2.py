@@ -1,6 +1,9 @@
 # Using the pdb Debugger:
 
-import pdb
+
+#  (imports the Python Debugger module)
+import pdb 
+
 
 def divide(x, y):
     pdb.set_trace()  # Set a breakpoint
