@@ -1,0 +1,10 @@
+darkgreen 
+blue
+brown
+cyan 
+DArkOliveGreen
+DeepSkyBlue
+LawnGreen
+magenta
+LightSkyblue
+navy
