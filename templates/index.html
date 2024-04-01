@@ -1,18 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Address Form</title>
+</head>
 <body>
-
-<h2>flask basic</h2>
-
-
-
-<form action="/rname",methods ="post">
-  <label for="name">First name:</label><br>
-  <input type="text" id="name" name="name" ><br>
-  <input type="submit" value="Submit">
-</form> 
-
-<p>{{my_result}}</p>
-
+    <h1>Address Form</h1>
+    <form action="/save_address" method="post">
+        <label for="address">Enter Address:</label><br>
+        <textarea id="address" name="address" rows="4" cols="50"></textarea><br><br>
+        <input type="submit" value="Submit">
+    </form>
 </body>
 </html>

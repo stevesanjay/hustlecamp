@@ -1,0 +1,351 @@
+{
+    "dataObjectOperationResponse": {
+        "status": "success",
+        "totalRecords": 1,
+        "dataObjects": [
+            {
+                "id": "customer_mts",
+                "type": "matchTrainingObject",
+                "properties": {
+                    "createdService": "genericObjectManageService",
+                    "createdBy": "system_user",
+                    "modifiedService": "genericObjectManageService",
+                    "modifiedBy": "system_user",
+                    "createdDate": "2024-03-27T07:13:47.615-0500",
+                    "modifiedDate": "2024-03-27T07:13:47.615-0500"
+                },
+                "data": {
+                    "attributes": {
+                        "entityType": {
+                            "values": [
+                                {
+                                    "value": "customer",
+                                    "locale": "en-US",
+                                    "source": "internal"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "values": [
+                                {
+                                    "value": "test updated",
+                                    "locale": "en-US",
+                                    "source": "internal"
+                                }
+                            ]
+                        },
+                        "status": {
+                            "values": [
+                                {
+                                    "value": "InProgress",
+                                    "locale": "en-US",
+                                    "source": "internal"
+                                }
+                            ]
+                        },
+                        "stepName": {
+                            "values": [
+                                {
+                                    "value": "MDP",
+                                    "locale": "en-US",
+                                    "source": "internal"
+                                }
+                            ]
+                        },
+                        "isLive": {
+                            "values": [
+                                {
+                                    "value": true,
+                                    "locale": "en-US",
+                                    "source": "internal"
+                                }
+                            ]
+                        }
+                    },
+                    "jsonData": {
+                        "matchProfile": {
+                            "domain": "party",
+                            "isMatchProfileScopingEnabled": false,
+                            "matchProfileScopeAttribute": "businessType",
+                            "matchThreshold": {
+                                "max_result": "5",
+                                "probability": "0.7"
+                            },
+                            "thresholdRange": {
+                                "high": 90,
+                                "medium": 80,
+                                "low": 0
+                            },
+                            "modelIds": {
+                                "active": [
+                                    "organization_mlTrainConfig"
+                                ],
+                                "inactive": []
+                            },
+                            "familyRules": [
+                                {
+                                    "name": "system_businessname",
+                                    "sourceAttributes": [
+                                        "orgname"
+                                    ],
+                                    "algorithms": [
+                                        "overlapLevenshtein",
+                                        "sorensen"
+                                    ],
+                                    "standardization": [
+                                        {
+                                            "sequence": 1,
+                                            "function": "OrgNameCleanser",
+                                            "corpusids": [
+                                                "c9f620d7-8572-4773-a9e6-17f57868a148",
+                                                "df591118-d15f-4c26-9ff9-f39e182fd5d7",
+                                                "719d314d-3fb7-40ef-adae-0040c92517cf"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "system_alternatename",
+                                    "sourceAttributes": [
+                                        "alternatename"
+                                    ],
+                                    "algorithms": [
+                                        "overlapLevenshtein",
+                                        "sorensen"
+                                    ],
+                                    "standardization": [
+                                        {
+                                            "sequence": 1,
+                                            "function": "PersonNameCleanser",
+                                            "corpusids": [
+                                                "c9f620d7-8572-4773-a9e6-17f57868a148",
+                                                "b59104f5-9357-4dc6-88e6-a13d1286ed4c"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "system_universalbusinessnumber",
+                                    "sourceAttributes": [
+                                        "companyid",
+                                        "dunsnumber",
+                                        "siccode"
+                                    ],
+                                    "algorithms": [
+                                        "overlapLevenshtein",
+                                        "ratcliff"
+                                    ],
+                                    "standardization": [
+                                        {
+                                            "sequence": 1,
+                                            "function": "RegexCleanser",
+                                            "corpusids": [
+                                                "c9f620d7-8572-4773-a9e6-17f57868a148"
+                                            ],
+                                            "sampleInput": "DUBS-1234-ADSFG",
+                                            "sampleOutput": "DUBS1234ADSFG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "system_address",
+                                    "standardization": [
+                                        {
+                                            "sequence": 1,
+                                            "corpusids": [
+                                                "c9f620d7-8572-4773-a9e6-17f57868a148",
+                                                "e1ce49dc-45ad-4b9c-aa97-22721abc0315",
+                                                "ef080efb-fc7a-41d3-8863-e9d680540004"
+                                            ],
+                                            "function": "AddressCleanser",
+                                            "sampleInput": "thomas Kurian",
+                                            "sampleOutput": "."
+                                        }
+                                    ],
+                                    "sourceAttributes": [
+                                        "otheraddressstreet",
+                                        "otheraddresscity"
+                                    ],
+                                    "algorithms": [
+                                        "overlapLevenshtein",
+                                        "sorensen"
+                                    ]
+                                },
+                                {
+                                    "name": "system_country",
+                                    "standardization": [
+                                        {
+                                            "sequence": 1,
+                                            "corpusids": [
+                                                "c9f620d7-8572-4773-a9e6-17f57868a148"
+                                            ],
+                                            "function": "RegexCleanser",
+                                            "sampleInput": "D-UBS-1234-ADSFG",
+                                            "sampleOutput": "DUBS1234ADSFG"
+                                        }
+                                    ],
+                                    "sourceAttributes": [
+                                        "address/otheraddressstate",
+                                        "address/otheraddresscountry"
+                                    ],
+                                    "algorithms": [
+                                        "overlapLevenshtein",
+                                        "sorensen"
+                                    ]
+                                },
+                                {
+                                    "name": "system_zipcode",
+                                    "standardization": [
+                                        {
+                                            "sequence": 1,
+                                            "corpusids": [
+                                                "c9f620d7-8572-4773-a9e6-17f57868a148"
+                                            ],
+                                            "function": "RegexCleanser",
+                                            "sampleInput": "BG!5600-78#",
+                                            "sampleOutput": "BG560078"
+                                        }
+                                    ],
+                                    "sourceAttributes": [
+                                        "address/otheraddresszipcode"
+                                    ],
+                                    "algorithms": [
+                                        "overlapLevenshtein",
+                                        "ratcliff"
+                                    ]
+                                },
+                                {
+                                    "name": "system_phonenumber",
+                                    "sourceAttributes": [
+                                        "phone",
+                                        "phone1"
+                                    ],
+                                    "algorithms": [
+                                        "overlapLevenshtein",
+                                        "ratcliff"
+                                    ],
+                                    "standardization": [
+                                        {
+                                            "sequence": 1,
+                                            "function": "RegexCleanser",
+                                            "corpusids": [
+                                                "c9f620d7-8572-4773-a9e6-17f57868a148"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "searchCriteria": {
+                                "blockingStrategy": [
+                                    {
+                                        "strategy": [
+                                            "system_universalbusinessnumber",
+                                            "system_phonenumber"
+                                        ]
+                                    },
+                                    {
+                                        "strategy": [
+                                            "system_alternatename",
+                                            "system_businessname"
+                                        ]
+                                    },
+                                    {
+                                        "strategy": [
+                                            "system_address"
+                                        ]
+                                    },
+                                    {
+                                        "strategy": [
+                                            "system_zipcode",
+                                            "system_country"
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "mlTrainConfig": {
+                            "featureThreshold": 4,
+                            "oneNodeThreshold": 0.5,
+                            "activationFunction": "logistic",
+                            "layers": [
+                                14,
+                                12,
+                                12,
+                                2
+                            ],
+                            "familiesConsidered": [
+                                "system_address_overlapLevenshtein",
+                                "system_address_sorensen",
+                                "system_alternatename_overlapLevenshtein",
+                                "system_alternatename_sorensen",
+                                "system_businessname_overlapLevenshtein",
+                                "system_businessname_sorensen",
+                                "system_country_overlapLevenshtein",
+                                "system_country_sorensen",
+                                "system_phonenumber_overlapLevenshtein",
+                                "system_phonenumber_ratcliff",
+                                "system_universalbusinessnumber_overlapLevenshtein",
+                                "system_universalbusinessnumber_ratcliff",
+                                "system_zipcode_overlapLevenshtein",
+                                "system_zipcode_ratcliff"
+                            ],
+                            "imputingFactor": {
+                                "system_businessname_overlapLevenshtein": 0.6,
+                                "system_businessname_sorensen": 0.43,
+                                "system_alternatename_overlapLevenshtein": 0.732,
+                                "system_alternatename_sorensen": 0.73,
+                                "system_address_overlapLevenshtein": 0.6,
+                                "system_address_sorensen": 0.28,
+                                "system_country_overlapLevenshtein": 0.75,
+                                "system_country_sorensen": 0.5,
+                                "system_zipcode_overlapLevenshtein": 0.778,
+                                "system_zipcode_ratcliff": 0.88,
+                                "system_universalbusinessnumber_overlapLevenshtein": 0.75,
+                                "system_universalbusinessnumber_ratcliff": 0.86,
+                                "system_phonenumber_overlapLevenshtein": 0.833,
+                                "system_phonenumber_ratcliff": 0.91
+                            },
+                            "penalizationImputationWeightage": {
+                                "system_businessname_overlapLevenshtein": 0.6,
+                                "system_businessname_sorensen": 0.43,
+                                "system_alternatename_overlapLevenshtein": 0.732,
+                                "system_alternatename_sorensen": 0.73,
+                                "system_address_overlapLevenshtein": 0.6,
+                                "system_address_sorensen": 0.28,
+                                "system_country_overlapLevenshtein": 0.75,
+                                "system_country_sorensen": 0.5,
+                                "system_zipcode_overlapLevenshtein": 0.778,
+                                "system_zipcode_ratcliff": 0.88,
+                                "system_universalbusinessnumber_overlapLevenshtein": 0.75,
+                                "system_universalbusinessnumber_ratcliff": 0.86,
+                                "system_phonenumber_overlapLevenshtein": 0.833,
+                                "system_phonenumber_ratcliff": 0.91
+                            },
+                            "featureScoreWeightage": {
+                                "system_businessname_overlapLevenshtein": 0.6,
+                                "system_businessname_sorensen": 0.43,
+                                "system_alternatename_overlapLevenshtein": 0.732,
+                                "system_alternatename_sorensen": 0.73,
+                                "system_address_overlapLevenshtein": 0.6,
+                                "system_address_sorensen": 0.28,
+                                "system_country_overlapLevenshtein": 0.75,
+                                "system_country_sorensen": 0.5,
+                                "system_zipcode_overlapLevenshtein": 0.778,
+                                "system_zipcode_ratcliff": 0.88,
+                                "system_universalbusinessnumber_overlapLevenshtein": 0.75,
+                                "system_universalbusinessnumber_ratcliff": 0.86,
+                                "system_phonenumber_overlapLevenshtein": 0.833,
+                                "system_phonenumber_ratcliff": 0.91
+                            },
+                            "weights": [
+                                0.2831065602868989,
+                                0.25496416018861023,
+                                -2.398498654778211
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}
