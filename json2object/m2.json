@@ -1,0 +1,51 @@
+{
+    "dataObjectOperationResponse": {
+        "status": "success",
+        "totalRecords": 1,
+        "dataObjects": [
+            {
+                "id": "customer_mts",
+                "type": "matchTrainingObject",
+                "properties": {
+                    "createdService": "genericObjectManageService",
+                    "createdBy": "system_user",
+                    "modifiedService": "genericObjectManageService",
+                    "modifiedBy": "system_user",
+                    "createdDate": "2024-03-27T07:13:47.615-0500",
+                    "modifiedDate": "2024-03-27T07:13:47.615-0500"
+                },
+                "data": {
+                    "attributes": {
+                        "address": {
+                            "values": [
+                                {
+                                    "value": "customer",
+                                    "locale": "en-US",
+                                    "source": "internal"
+                                }
+                            ]
+                        },
+                        "name": {
+                            "values": [
+                                {
+                                    "value": "test updated",
+                                    "locale": "en-US",
+                                    "source": "internal"
+                                }
+                            ]
+                        },
+                        "email": {
+                            "values": [
+                                {
+                                    "value": true,
+                                    "locale": "en-US",
+                                    "source": "internal"
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}
