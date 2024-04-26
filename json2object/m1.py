@@ -1,6 +1,8 @@
-from pydantic import BaseModel, Field
+
+from pydantic import BaseModel
 from typing import List, Dict, Optional
-import json
+import json 
+
 
 class Value(BaseModel):
     value: str
@@ -28,26 +30,15 @@ class DataObject(BaseModel):
     data: Data
 
 class DataObjectOperationResponse(BaseModel):
-
     status: Optional[str]
     totalRecords: Optional[int]
     dataObjects: Optional[List[DataObject]]
 
-class data(BaseModel):
-    DataObjectOperationResponse: DataObjectOperationResponse
 
-
-    # status: Optional[str]
-    # totalRecords: Optional[int]
-    # dataObjects: Optional[List[DataObject]]
-
-
-
-with open("three.json", "r") as json_file:
+with open("m2.json", "r") as json_file:
     json_data = json.load(json_file)
     print(json_data)
     try:
-        # schema = UserSchema()
         result = DataObjectOperationResponse.parse_obj(json_data)
         print(result)
     except  Exception as e:

@@ -1,0 +1,3 @@
+https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+https://books.toscrape.com/catalogue/forever-and-forever-the-courtship-of-henry-longfellow-and-fanny-appleton_894/index.html
+https://toscrape.com/

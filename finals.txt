@@ -1,0 +1,9006 @@
+
+        
+1
+
+Company:
+Stripe
+
+
+Industry:
+Fintech and banking
+
+
+Short Description (< 5 words):
+Prevent fraudelent transactions
+
+Title:
+How we built it: Stripe Radar
+
+
+Tag:
+fraud detection
+
+
+Year:
+2023
+
+
+Link:
+https://stripe.com/blog/how-we-built-it-stripe-radar
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+2
+
+Company:
+Walmart
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Recommend complementary items
+
+Title:
+Personalized ‘Complete the Look’ model
+
+
+Tag:
+recommender system,product feature,CV
+
+
+Year:
+2023
+
+
+Link:
+https://medium.com/walmartglobaltech/personalized-complete-the-look-model-ea093aba0b73
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+3
+
+Company:
+Uber
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Forecast demand for airport rides
+
+Title:
+Demand and ETR Forecasting at Airports
+
+
+Tag:
+demand forecasting
+
+
+Year:
+2023
+
+
+Link:
+https://www.uber.com/en-GB/blog/demand-and-etr-forecasting-at-airports/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+4
+
+Company:
+Pinterest
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Prevent advertiser churn
+
+Title:
+An ML based approach to proactive advertiser churn prevention
+
+
+Tag:
+churn prediction
+
+
+Year:
+2023
+
+
+Link:
+https://medium.com/pinterest-engineering/an-ml-based-approach-to-proactive-advertiser-churn-prevention-3a7c0c335016
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+5
+
+Company:
+Stitch Fix
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Generate ad headlines
+
+Title:
+A New Era of Creativity: Expert-in-the-loop Generative AI at Stitch Fix
+
+
+Tag:
+product feature,NLP,generative AI
+
+
+Year:
+2023
+
+
+Link:
+https://multithreaded.stitchfix.com/blog/2023/03/06/expert-in-the-loop-generative-ai-at-stitch-fix/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+6
+
+Company:
+Swiggy
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Recommend items to order
+
+Title:
+Building a mind reader at Swiggy using Data Science
+
+
+Tag:
+product feature,recommender system
+
+
+Year:
+2023
+
+
+Link:
+https://bytes.swiggy.com/building-a-mind-reader-at-swiggy-using-data-science-5a5c38aa6c17
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+7
+
+Company:
+Microsoft
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Diagnose production incidents with LLM
+
+Title:
+Large-language models for automatic cloud incident management
+
+
+Tag:
+ops,generative AI,product feature
+
+
+Year:
+2023
+
+
+Link:
+https://www.microsoft.com/en-us/research/blog/large-language-models-for-automatic-cloud-incident-management/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+8
+
+Company:
+Foodpanda
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Optimize menu sorting order
+
+Title:
+Menu Ranking
+
+
+Tag:
+content personalization
+
+
+Year:
+2023
+
+
+Link:
+https://medium.com/foodpanda-data/menu-ranking-422ad21f381e
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+9
+
+Company:
+Zillow
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Estimate the house market value
+
+Title:
+Building the Neural Zestimate
+
+
+Tag:
+pricing
+
+
+Year:
+2023
+
+
+Link:
+https://www.zillow.com/tech/building-the-neural-zestimate/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+10
+
+Company:
+Airbnb
+
+
+Industry:
+Travel,E-commerce and retail
+
+
+Short Description (< 5 words):
+Identify user interests
+
+Title:
+Prioritizing Home Attributes Based on Guest Interest
+
+
+Tag:
+NLP,item classification,search
+
+
+Year:
+2023
+
+
+Link:
+https://medium.com/airbnb-engineering/prioritizing-home-attributes-based-on-guest-interest-3c49b827e51a
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+11
+
+Company:
+GitHub
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Generate code and code suggestions
+
+Title:
+Inside GitHub: Working with the LLMs behind GitHub Copilot
+
+
+Tag:
+product feature,generative AI
+
+
+Year:
+2023
+
+
+Link:
+https://github.blog/2023-05-17-inside-github-working-with-the-llms-behind-github-copilot/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+12
+
+Company:
+DoorDash
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Optimize courier waiting time
+
+Title:
+Lifecycle of a Successful ML Product: Reducing Dasher Wait Times
+
+
+Tag:
+product feature,ETA prediction
+
+
+Year:
+2023
+
+
+Link:
+https://doordash.engineering/2023/02/15/lifecycle-of-a-successful-ml-product-reducing-dasher-wait-times/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+13
+
+Company:
+Linkedin
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Select best payment gateway
+
+Title:
+Improving the customer’s experience via ML-driven payment routing
+
+
+Tag:
+ops
+
+
+Year:
+2023
+
+
+Link:
+https://engineering.linkedin.com/blog/2023/improving-the-customer-s-experience-via-ml-driven-payment-routin
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+14
+
+Company:
+Wayfair
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Predict delivery times
+
+Title:
+Delivery-Date Prediction
+
+
+Tag:
+ETA prediction
+
+
+Year:
+2023
+
+
+Link:
+https://www.aboutwayfair.com/careers/tech-blog/delivery-date-prediction
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+15
+
+Company:
+Linkedin
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Detect viral spam
+
+Title:
+Viral spam content detection at LinkedIn
+
+
+Tag:
+spam / content moderation
+
+
+Year:
+2023
+
+
+Link:
+https://engineering.linkedin.com/blog/2023/viral-spam-content-detection-at-linkedin
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+16
+
+Company:
+Lyft
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Recommend content in app
+
+Title:
+The Recommendation System at Lyft
+
+
+Tag:
+recommender system
+
+
+Year:
+2023
+
+
+Link:
+https://eng.lyft.com/the-recommendation-system-at-lyft-67bc9dcc1793
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+17
+
+Company:
+Honeycomb
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Generate queries with natural language
+
+Title:
+All the Hard Stuff Nobody Talks About when Building Products with LLMs
+
+
+Tag:
+NLP,product feature,generative AI
+
+
+Year:
+2023
+
+
+Link:
+https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+18
+
+Company:
+Zalando
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Forecast demand in fashion e-commerce
+
+Title:
+Deep Learning based Forecasting: a case study from the online fashion industry
+
+
+Tag:
+demand forecasting
+
+
+Year:
+2023
+
+
+Link:
+https://arxiv.org/abs/2305.14406
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+19
+
+Company:
+Etsy
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Recommend relevant marketplace items
+
+Title:
+How We Built a Multi-Task Canonical Ranker for Recommendations at Etsy
+
+
+Tag:
+recommender system
+
+
+Year:
+2023
+
+
+Link:
+https://www.etsy.com/uk/codeascraft/how-we-built-a-multi-task-canonical-ranker-for-recommendations-at-etsy
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+20
+
+Company:
+Yelp
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Organize e-commerce content using embeddings
+
+Title:
+Yelp Content As Embeddings
+
+
+Tag:
+NLP,CV,item classification
+
+
+Year:
+2023
+
+
+Link:
+https://engineeringblog.yelp.com/2023/04/yelp-content-as-embeddings.html
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+21
+
+Company:
+Monzo
+
+
+Industry:
+Fintech and banking
+
+
+Short Description (< 5 words):
+Select relevant marketing messages 
+
+Title:
+Optimising marketing messages for Monzo users
+
+
+Tag:
+causality,content personalization
+
+
+Year:
+2023
+
+
+Link:
+https://medium.com/data-monzo/optimising-marketing-messages-for-monzo-users-3fe805f24572
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+22
+
+Company:
+Monzo
+
+
+Industry:
+Fintech and banking
+
+
+Short Description (< 5 words):
+Detect patterns in text data
+
+Title:
+Using topic modelling to understand customer saving goals
+
+
+Tag:
+NLP,item classification
+
+
+Year:
+2023
+
+
+Link:
+https://medium.com/data-monzo/using-topic-modelling-to-understand-customer-saving-goals-2bb06f00ce2d
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+23
+
+Company:
+Wayfair
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Predict new product’s sales potential
+
+Title:
+How Wayfair uses “Predicted Winners” Models to Accelerate Success for New Products
+
+
+Tag:
+demand forecasting
+
+
+Year:
+2023
+
+
+Link:
+https://www.aboutwayfair.com/careers/tech-blog/how-wayfair-uses-predicted-winners-models-to-accelerate-success-for-new-products
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+24
+
+Company:
+Airbnb
+
+
+Industry:
+Travel,E-commerce and retail
+
+
+Short Description (< 5 words):
+Personalized listing search
+
+Title:
+Learning To Rank Diversely
+
+
+Tag:
+search
+
+
+Year:
+2023
+
+
+Link:
+https://medium.com/airbnb-engineering/learning-to-rank-diversely-add6b1929621
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+25
+
+Company:
+Twitter
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Recommend interesting tweets
+
+Title:
+Twitter's Recommendation Algorithm
+
+
+Tag:
+recommender system
+
+
+Year:
+2023
+
+
+Link:
+https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm 
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+26
+
+Company:
+DoorDash
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Predict if a store is open
+
+Title:
+How DoorDash Upgraded a Heuristic with ML to Save Thousands of Canceled Orders
+
+
+Tag:
+product feature,ETA prediction
+
+
+Year:
+2023
+
+
+Link:
+https://doordash.engineering/2023/01/10/how-doordash-upgraded-a-heuristic-with-ml-to-save-thousands-of-canceled-orders/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+27
+
+Company:
+Wayfair
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Identify business customers
+
+Title:
+Hamlet: Wayfair's ML Approach to Identifying Business Shopper
+
+
+Tag:
+lead scoring
+
+
+Year:
+2023
+
+
+Link:
+https://www.aboutwayfair.com/careers/tech-blog/hamlet
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+28
+
+Company:
+Wayfair
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Detect fraud with embeddings
+
+Title:
+Introducing Melange: A Customer Journey Embedding System for Improving Fraud and Policy Abuse Detection
+
+
+Tag:
+fraud detection
+
+
+Year:
+2023
+
+
+Link:
+https://www.aboutwayfair.com/careers/tech-blog/introducing-melange-a-customer-journey-embedding-system-for-improving-fraud-and-scam-detection
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+29
+
+Company:
+Airbnb
+
+
+Industry:
+Travel,E-commerce and retail
+
+
+Short Description (< 5 words):
+Improve travel search experience 
+
+Title:
+Building Airbnb Categories with ML & Human in the Loop
+
+
+Tag:
+search
+
+
+Year:
+2023
+
+
+Link:
+https://medium.com/airbnb-engineering/building-airbnb-categories-with-ml-human-in-the-loop-35b78a837725
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+30
+
+Company:
+Spotify
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Automatically generate ad content
+
+Title:
+How We Automated Content Marketing to Acquire Users at Scale
+
+
+Tag:
+ad ranking / targeting,content personalization
+
+
+Year:
+2023
+
+
+Link:
+https://engineering.atspotify.com/2023/11/how-we-automated-content-marketing-to-acquire-users-at-scale/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+31
+
+Company:
+Instacart
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Predict availability of food items
+
+Title:
+How Instacart Modernized the Prediction of Real Time Availability for Hundreds of Millions of Items While Saving Costs
+
+
+Tag:
+demand forecasting
+
+
+Year:
+2023
+
+
+Link:
+https://tech.instacart.com/how-instacart-modernized-the-prediction-of-real-time-availability-for-hundreds-of-millions-of-items-59b2a82c89fe
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+32
+
+Company:
+Linkedin
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Personalize the homepage feed
+
+Title:
+Enhancing homepage feed relevance by harnessing the power of large corpus sparse ID embeddings
+
+
+Tag:
+content personalization
+
+
+Year:
+2023
+
+
+Link:
+https://engineering.linkedin.com/blog/2023/enhancing-homepage-feed-relevance-by-harnessing-the-power-of-lar
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+33
+
+Company:
+Doordash
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Forecast order volumes and deliveries
+
+Title:
+How DoorDash Built an Ensemble Learning Model for Time Series Forecasting
+
+
+Tag:
+demand forecasting
+
+
+Year:
+2023
+
+
+Link:
+https://doordash.engineering/2023/06/20/how-doordash-built-an-ensemble-learning-model-for-time-series-forecasting/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+34
+
+Company:
+Expedia
+
+
+Industry:
+Travel,E-commerce and retail
+
+
+Short Description (< 5 words):
+Forecast flight prices
+
+Title:
+Using Synthetic Search Data for Flights Price Forecasting
+
+
+Tag:
+pricing,ops
+
+
+Year:
+2023
+
+
+Link:
+https://medium.com/expedia-group-tech/using-synthetic-search-data-for-flights-price-forecasting-4cf3277afdaf
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+35
+
+Company:
+Nextdoor
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Generate engaging email subject lines
+
+Title:
+Let AI Entertain You: Increasing User Engagement with Generative AI and Rejection Sampling
+
+
+Tag:
+generative AI,content personalization
+
+
+Year:
+2023
+
+
+Link:
+https://engblog.nextdoor.com/let-ai-entertain-you-increasing-user-engagement-with-generative-ai-and-rejection-sampling-50a402264f56
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+36
+
+Company:
+Criteo
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Figure out users' preferences
+
+Title:
+Recommender systems need a user model
+
+
+Tag:
+recommender system
+
+
+Year:
+2023
+
+
+Link:
+https://medium.com/criteo-engineering/recommender-systems-need-a-user-model-c3b3790311bf
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+37
+
+Company:
+Apple
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Identify objects on images
+
+Title:
+Fast Class-Agnostic Salient Object Segmentation
+
+
+Tag:
+CV
+
+
+Year:
+2023
+
+
+Link:
+https://machinelearning.apple.com/research/salient-object-segmentation
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+38
+
+Company:
+Zillow
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Identify and block unwanted callers
+
+Title:
+SpectroBrain: Detecting Phone Spam with Semi-Supervised Learning
+
+
+Tag:
+spam / content moderation
+
+
+Year:
+2023
+
+
+Link:
+https://www.zillow.com/tech/spectrobrain-detecting-phone-spam-with-semi-supervised-learning/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+39
+
+Company:
+Algolia
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Suggest relevant search queries
+
+Title:
+Feature Spotlight: Query Suggestions
+
+
+Tag:
+search,product feature
+
+
+Year:
+2023
+
+
+Link:
+https://www.algolia.com/blog/product/feature-spotlight-query-suggestions/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+40
+
+Company:
+Netflix
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+In-video search
+
+Title:
+Building In-Video Search
+
+
+Tag:
+search
+
+
+Year:
+2023
+
+
+Link:
+https://netflixtechblog.com/building-in-video-search-936766f0017c
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+41
+
+Company:
+Grab
+
+
+Industry:
+Delivery and mobility,Banking and finance
+
+
+Short Description (< 5 words):
+Automatically tag sensitive data
+
+Title:
+LLM-powered data classification for data entities at scale
+
+
+Tag:
+generative AI
+
+
+Year:
+2023
+
+
+Link:
+https://engineering.grab.com/llm-powered-data-classification
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+42
+
+Company:
+Doordash
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Accurately forecast demand during holidays
+
+Title:
+How DoorDash Improves Holiday Predictions via Cascade ML Approach
+
+
+Tag:
+demand forecasting
+
+
+Year:
+2023
+
+
+Link:
+https://doordash.engineering/2023/08/31/how-doordash-improves-holiday-predictions-via-cascade-ml-approach/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+43
+
+Company:
+Netflix
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Personalize video clips
+
+Title:
+The Next Step in Personalization: Dynamic Sizzles
+
+
+Tag:
+content personalization,product feature
+
+
+Year:
+2023
+
+
+Link:
+https://netflixtechblog.com/the-next-step-in-personalization-dynamic-sizzles-4dc4ce2011ef
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+44
+
+Company:
+BlaBlaCar
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Prevent phishing and payment fraud
+
+Title:
+How we used machine learning to fight fraud at BlaBlaCar — Part 1
+
+
+Tag:
+fraud detection
+
+
+Year:
+2023
+
+
+Link:
+https://medium.com/blablacar/how-we-used-machine-learning-to-fight-fraud-at-blablacar-part-1-3b976c9dcdf6
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+45
+
+Company:
+Instacart
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Personalize user experience by recommending relevant products
+
+Title:
+Using Contextual Bandit models in large action spaces at Instacart
+
+
+Tag:
+recommender system
+
+
+Year:
+2023
+
+
+Link:
+https://tech.instacart.com/using-contextual-bandit-models-in-large-action-spaces-at-instacart-cb7ab4d8fa4f
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+46
+
+Company:
+Pinterest
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Recommend similar visual content
+
+Title:
+Training Foundation Improvements for Closeup Recommendation Ranker
+
+
+Tag:
+recommender system
+
+
+Year:
+2023
+
+
+Link:
+https://medium.com/pinterest-engineering/training-foundation-improvements-for-closeup-recommendation-ranker-67d90603426e
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+47
+
+Company:
+Spotify
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Recommend new complementary music
+
+Title:
+Spotify Track Neural Recommender System
+
+
+Tag:
+recommender system
+
+
+Year:
+2023
+
+
+Link:
+https://medium.com/stanford-cs224w/spotify-track-neural-recommender-system-51d266e31e16
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+48
+
+Company:
+Meta
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Generate code with LLM
+
+Title:
+Introducing Code Llama, a state-of-the-art large language model for coding
+
+
+Tag:
+generative AI
+
+
+Year:
+2023
+
+
+Link:
+https://ai.meta.com/blog/code-llama-large-language-model-coding/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+49
+
+Company:
+Grammarly
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Suggest gender-inclusive grammatical error corrections
+
+Title:
+Improving the Performance of NLP Systems on the Gender-Neutral “They”
+
+
+Tag:
+NLP
+
+
+Year:
+2023
+
+
+Link:
+https://arxiv.org/abs/2306.07415
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+50
+
+Company:
+Netflix
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Detect speech and music in audio
+
+Title:
+Detecting Speech and Music in Audio Content
+
+
+Tag:
+product feature
+
+
+Year:
+2023
+
+
+Link:
+https://netflixtechblog.com/detecting-speech-and-music-in-audio-content-afd64e6a5bf8
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+51
+
+Company:
+Salesforce
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Extract relevant information from a knowledge article
+
+Title:
+Resolve Cases Quickly with Interactive Einstein Search Answers
+
+
+Tag:
+search
+
+
+Year:
+2023
+
+
+Link:
+https://blog.salesforceairesearch.com/einstein-search-answers/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+52
+
+Company:
+Etsy
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Show relevant ads
+
+Title:
+Leveraging Real-Time User Actions to Personalize Etsy Ads
+
+
+Tag:
+ad ranking / targeting
+
+
+Year:
+2023
+
+
+Link:
+https://arxiv.org/pdf/2302.01255.pdf
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+53
+
+Company:
+GitHub
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+AI copilot for code generation
+
+Title:
+How to build an enterprise LLM application: Lessons from GitHub Copilot
+
+
+Tag:
+generative AI
+
+
+Year:
+2023
+
+
+Link:
+https://github.blog/2023-09-06-how-to-build-an-enterprise-llm-application-lessons-from-github-copilot/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+54
+
+Company:
+Uber
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Detect potential fraudulent entities
+
+Title:
+Risk Entity Watch – Using Anomaly Detection to Fight Fraud
+
+
+Tag:
+fraud detection
+
+
+Year:
+2023
+
+
+Link:
+https://www.uber.com/en-IN/blog/risk-entity-watch/?uclick_id=9c4355d3-795f-4b1d-b18e-4b8b4c8ed29f
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+55
+
+Company:
+Expedia
+
+
+Industry:
+Travel,E-commerce and retail
+
+
+Short Description (< 5 words):
+Predict Customer Lifetime Value (CLV)
+
+Title:
+Expedia Group’s Customer Lifetime Value Prediction Model
+
+
+Tag:
+propensity to buy
+
+
+Year:
+2023
+
+
+Link:
+https://medium.com/expedia-group-tech/expedia-groups-customer-lifetime-value-prediction-model-7927cdd44342
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+56
+
+Company:
+Dailymotion
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Recommend diversified video content 
+
+Title:
+Reinvent your recommender system using Vector Database and Opinion Mining
+
+
+Tag:
+recommender system
+
+
+Year:
+2023
+
+
+Link:
+https://medium.com/dailymotion/reinvent-your-recommender-system-using-vector-database-and-opinion-mining-a4fadf97d020
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+57
+
+Company:
+Swiggy
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Predict food delivery time
+
+Title:
+Where is my order? — Part I
+
+
+Tag:
+ETA prediction
+
+
+Year:
+2023
+
+
+Link:
+https://bytes.swiggy.com/how-ml-powers-when-is-my-order-coming-part-i-4ef24eae70da
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+58
+
+Company:
+Swiggy
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Сonversational and open-ended search
+
+Title:
+Swiggy’s Generative AI Journey: A Peek Into the Future
+
+
+Tag:
+generative AI,search
+
+
+Year:
+2023
+
+
+Link:
+https://bytes.swiggy.com/swiggys-generative-ai-journey-a-peek-into-the-future-2193c7166d9a
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+59
+
+Company:
+New York Times
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Recommend recipes to readers
+
+Title:
+How The New York Times Cooking Team Makes Personalized Recipe Recommendations
+
+
+Tag:
+recommender system
+
+
+Year:
+2023
+
+
+Link:
+https://open.nytimes.com/how-the-new-york-times-cooking-team-makes-personalized-recipe-recommendations-7b86df9b22ec
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+60
+
+Company:
+Expedia
+
+
+Industry:
+Travel,E-commerce and retail
+
+
+Short Description (< 5 words):
+Suggest diverse travel recommendations
+
+Title:
+Generating Diverse Travel Recommendations
+
+
+Tag:
+recommender system
+
+
+Year:
+2023
+
+
+Link:
+https://medium.com/expedia-group-tech/generating-diverse-travel-recommendations-76688f49c812
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+61
+
+Company:
+Stitch Fix
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Personalize styling recommendations
+
+Title:
+Accelerating AI: Implementing Multi-GPU Distributed Training for Personalized Recommendations
+
+
+Tag:
+ops,recommender system
+
+
+Year:
+2023
+
+
+Link:
+https://multithreaded.stitchfix.com/blog/2023/06/08/distributed-model-training/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+62
+
+Company:
+Doordash
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Areas for using Generative AI
+
+Title:
+DoorDash identifies Five big areas for using Generative AI
+
+
+Tag:
+generative AI
+
+
+Year:
+2023
+
+
+Link:
+https://doordash.engineering/2023/04/26/doordash-identifies-five-big-areas-for-using-generative-ai/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+63
+
+Company:
+Etsy
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Search by image
+
+Title:
+From Image Classification to Multitask Modeling: Building Etsy’s Search by Image Feature
+
+
+Tag:
+CV,search
+
+
+Year:
+2023
+
+
+Link:
+https://www.etsy.com/codeascraft/from-image-classification-to-multitask-modeling-building-etsys-search-by-image-feature
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+64
+
+Company:
+Spotify
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Generate audio podcast previews
+
+Title:
+Large-Scale Generation of ML Podcast Previews at Spotify with Google Dataflow
+
+
+Tag:
+product feature
+
+
+Year:
+2023
+
+
+Link:
+https://engineering.atspotify.com/2023/04/large-scale-generation-of-ml-podcast-previews-at-spotify-with-google-dataflow/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+65
+
+Company:
+Delivery Hero
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Better understand user behavior 
+
+Title:
+Personalisation @ Delivery Hero: Understanding Customers
+
+
+Tag:
+recommender system
+
+
+Year:
+2023
+
+
+Link:
+https://tech.deliveryhero.com/personalisation-at-delivery-hero-understanding-customers/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+66
+
+Company:
+Swiggy
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Predict food delivery time
+
+Title:
+Predicting Food Delivery Time at Cart
+
+
+Tag:
+ETA prediction
+
+
+Year:
+2023
+
+
+Link:
+https://bytes.swiggy.com/predicting-food-delivery-time-at-cart-cda23a84ba63
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+67
+
+Company:
+Netflix
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Generate content recommendations for users
+
+Title:
+Lessons Learnt From Consolidating ML Models in a Large Scale Recommendation System
+
+
+Tag:
+recommender system
+
+
+Year:
+2023
+
+
+Link:
+https://netflixtechblog.medium.com/lessons-learnt-from-consolidating-ml-models-in-a-large-scale-recommendation-system-870c5ea5eb4a 
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+68
+
+Company:
+Linkedin
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Show relevant jobs in search
+
+Title:
+How LinkedIn Is Using Embeddings to Up Its Match Game for Job Seekers
+
+
+Tag:
+search
+
+
+Year:
+2023
+
+
+Link:
+https://engineering.linkedin.com/blog/2023/how-linkedin-is-using-embeddings-to-up-its-match-game-for-job-se
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+69
+
+Company:
+Expedia
+
+
+Industry:
+Travel,E-commerce and retail
+
+
+Short Description (< 5 words):
+Alert users about optimal deals
+
+Title:
+Increasing Travelers’ Engagement Through Price Alerts
+
+
+Tag:
+pricing,content personalization
+
+
+Year:
+2023
+
+
+Link:
+https://medium.com/expedia-group-tech/increasing-travelers-engagement-through-relevant-price-alerts-at-expedia-group-75aa6a377864
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+70
+
+Company:
+Walmart
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Resolve entities and detect relationships
+
+Title:
+Exploring an Entity Resolution Framework Across Various Use Cases
+
+
+Tag:
+ops,item classificatiion
+
+
+Year:
+2023
+
+
+Link:
+https://medium.com/walmartglobaltech/exploring-an-entity-resolution-framework-across-various-use-cases-cb172632e4ae
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+71
+
+Company:
+Thoughtworks 
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+AI copilot for product strategy
+
+Title:
+Building Boba AI
+
+
+Tag:
+generative AI
+
+
+Year:
+2023
+
+
+Link:
+https://martinfowler.com/articles/building-boba.html
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+72
+
+Company:
+Grab
+
+
+Industry:
+Delivery and mobility,Banking and finance
+
+
+Short Description (< 5 words):
+Automatically detect new fraud types
+
+Title:
+Unsupervised graph anomaly detection - Catching new fraudulent behaviours
+
+
+Tag:
+fraud detection
+
+
+Year:
+2023
+
+
+Link:
+https://engineering.grab.com/graph-anomaly-model
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+73
+
+Company:
+Dropbox
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Identify date formats in file names
+
+Title:
+Is this a date? Using ML to identify date formats in file names
+
+
+Tag:
+ops,product feature
+
+
+Year:
+2023
+
+
+Link:
+https://dropbox.tech/machine-learning/using-ml-to-identify-date-formats-in-file-names
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+74
+
+Company:
+Grab
+
+
+Industry:
+Delivery and mobility,Banking and finance
+
+
+Short Description (< 5 words):
+Сreate scalable lookalike audiences 
+
+Title:
+Stepping up marketing for advertisers: Scalable lookalike audience
+
+
+Tag:
+ad ranking / targeting
+
+
+Year:
+2023
+
+
+Link:
+https://engineering.grab.com/scalable-lookalike-audiences
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+75
+
+Company:
+Wayfair
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Send relevant communications to customers 
+
+Title:
+Griffin: How Wayfair Leverages Reinforcement Learning to Send Customers Relevant Communications
+
+
+Tag:
+content personalization
+
+
+Year:
+2023
+
+
+Link:
+https://www.aboutwayfair.com/careers/tech-blog/griffin-how-wayfair-leverages-reinforcement-learning-to-send-customers-relevant-communications
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+76
+
+Company:
+Whatnot
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Detect marketplace spam
+
+Title:
+How Whatnot Utilizes Generative AI to Enhance Trust and Safety
+
+
+Tag:
+generative AI,spam/content moderation
+
+
+Year:
+2023
+
+
+Link:
+https://medium.com/whatnot-engineering/how-whatnot-utilizes-generative-ai-to-enhance-trust-and-safety-c7968eb6315e
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+77
+
+Company:
+Instacart
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Predict grocery item availability
+
+Title:
+How Instacart’s Item Availability Evolved Over the Pandemic
+
+
+Tag:
+demand forecasting
+
+
+Year:
+2023
+
+
+Link:
+https://www.instacart.com/company/how-its-made/how-instacarts-item-availability-evolved-over-the-pandemic/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+78
+
+Company:
+Instacart
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Predict availability of food items
+
+Title:
+Instacart’s Item Availability Architecture: Solving for scale and consistency
+
+
+Tag:
+demand forecasting
+
+
+Year:
+2023
+
+
+Link:
+https://tech.instacart.com/instacarts-item-availability-architecture-solving-for-scale-and-consistency-f5661acb20a6
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+79
+
+Company:
+BlaBlaCar
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Prevent phishing and payment fraud
+
+Title:
+How we built our machine learning pipeline to fight fraud at BlaBlaCar — Part 2
+
+
+Tag:
+fraud detection
+
+
+Year:
+2023
+
+
+Link:
+https://medium.com/blablacar/how-we-built-our-machine-learning-pipeline-to-fight-fraud-at-blablacar-part-2-476335f459b4
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+80
+
+Company:
+Salesforce
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Summarize Slack conversations
+
+Title:
+AI Summarist: Get Your Time Back on Slack, Boost Productivity & Focus, Personalize Information Consumption
+
+
+Tag:
+generative AI,product feature
+
+
+Year:
+2023
+
+
+Link:
+https://blog.salesforceairesearch.com/ai-summarist-slack-productivity
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+81
+
+Company:
+Meta
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Show users relevant content at scale
+
+Title:
+Scaling the Instagram Explore recommendations system
+
+
+Tag:
+recommender system
+
+
+Year:
+2023
+
+
+Link:
+https://engineering.fb.com/2023/08/09/ml-applications/scaling-instagram-explore-recommendations-system/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+82
+
+Company:
+Delivery Hero
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Recommend restaurants for new customers
+
+Title:
+Personalisation @ Delivery Hero: Ranking restaurants for new users
+
+
+Tag:
+recommender system
+
+
+Year:
+2023
+
+
+Link:
+https://tech.deliveryhero.com/personalisation-delivery-hero-ranking-restaurants-for-new-users/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+83
+
+Company:
+Swiggy
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Predict food delivery time
+
+Title:
+How ML Powers — When is my order coming? — Part II
+
+
+Tag:
+ETA prediction
+
+
+Year:
+2023
+
+
+Link:
+https://bytes.swiggy.com/how-ml-powers-when-is-my-order-coming-part-ii-eae83575e3a9
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+84
+
+Company:
+Salesforce
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Recommend apps in the marketplace
+
+Title:
+On the Diversity and Explainability of Enterprise App Recommendation Systems
+
+
+Tag:
+recommender system
+
+
+Year:
+2023
+
+
+Link:
+https://blog.salesforceairesearch.com/diversity-explainability-enterprise-app-recommendation-systems/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+85
+
+Company:
+Grab
+
+
+Industry:
+Delivery and mobility,Banking and finance
+
+
+Short Description (< 5 words):
+Optimize promotional campaigns
+
+Title:
+Scaling marketing for merchants with targeted and intelligent promos
+
+
+Tag:
+ad ranking / targeting
+
+
+Year:
+2023
+
+
+Link:
+https://engineering.grab.com/scaling-marketing-for-merchants
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+86
+
+Company:
+GitHub
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Automated code reviews and PR tagging
+
+Title:
+Generative AI-enabled compliance for software development
+
+
+Tag:
+generative AI
+
+
+Year:
+2023
+
+
+Link:
+https://github.blog/2023-04-11-generative-ai-enabled-compliance-for-software-development
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+87
+
+Company:
+Delivery Hero
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Recommend restaurants
+
+Title:
+Don’t Worry, We Got You: Personalised Model
+
+
+Tag:
+recommender system
+
+
+Year:
+2023
+
+
+Link:
+https://tech.deliveryhero.com/dont-worry-we-got-you-personalised-model-2/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+88
+
+Company:
+OLX
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Predict order delivery time
+
+Title:
+Machine Learning for Delivery Time Estimation
+
+
+Tag:
+ETA prediction
+
+
+Year:
+2023
+
+
+Link:
+https://tech.olx.com/machine-learning-for-delivery-time-estimation-1-591c8df849a0
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+89
+
+Company:
+Spotify
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Target in-app messaging
+
+Title:
+Experimenting with Machine Learning to Target In-App Messaging
+
+
+Tag:
+content personalization,product feature
+
+
+Year:
+2023
+
+
+Link:
+https://engineering.atspotify.com/2023/06/experimenting-with-machine-learning-to-target-in-app-messaging/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+90
+
+Company:
+Nubank
+
+
+Industry:
+Fintech and banking
+
+
+Short Description (< 5 words):
+Automatically route customer phone calls
+
+Title:
+Presenting Precog, Nubank’s Real Time Event AI
+
+
+Tag:
+product feature
+
+
+Year:
+2023
+
+
+Link:
+https://building.nubank.com.br/presenting-precog-nubanks-real-time-event-ai/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+91
+
+Company:
+Instacart
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Build an internal AI assistant
+
+Title:
+Scaling Productivity with Ava — Instacart’s Internal AI Assistant
+
+
+Tag:
+generative AI
+
+
+Year:
+2023
+
+
+Link:
+https://tech.instacart.com/scaling-productivity-with-ava-instacarts-internal-ai-assistant-ed7f02558d84
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+92
+
+Company:
+Meta
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Translate and transcribe across speech and text
+
+Title:
+Bringing the world closer together with a foundational multimodal model for speech translation
+
+
+Tag:
+NLP
+
+
+Year:
+2023
+
+
+Link:
+https://ai.meta.com/blog/seamless-m4t/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+93
+
+Company:
+Vimeo
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Customer support AI assistant
+
+Title:
+From idea to reality: Elevating our customer support through generative AI
+
+
+Tag:
+generative AI,customer support
+
+
+Year:
+2023
+
+
+Link:
+https://medium.com/vimeo-engineering-blog/from-idea-to-reality-elevating-our-customer-support-through-generative-ai-101a2c5ea680
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+94
+
+Company:
+Ebay
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Recommend relevant e-commerce items
+
+Title:
+Building a Deep Learning Based Retrieval System for Personalized Recommendations
+
+
+Tag:
+recommender system
+
+
+Year:
+2022
+
+
+Link:
+https://tech.ebayinc.com/engineering/building-a-deep-learning-based-retrieval-system-for-personalized-recommendations/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+95
+
+Company:
+Mercado Libre
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Predict product dimensions for delivery
+
+Title:
+Predicting package dimensions based on a similarity model at Mercado Libre
+
+
+Tag:
+ops,product feature
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/mercadolibre-tech/predicting-package-dimensions-based-on-a-similarity-model-at-mercado-libre-d64a9dd4351d
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+96
+
+Company:
+Doordash
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Recommend substitute items
+
+Title:
+Evolving DoorDash’s Substitution Recommendations Algorithm
+
+
+Tag:
+product feature,recommender system
+
+
+Year:
+2022
+
+
+Link:
+https://doordash.engineering/2022/09/08/evolving-doordashs-substitution-recommendations-algorithm/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+97
+
+Company:
+Pinterest
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Personalize homepage contents
+
+Title:
+How Pinterest Leverages Realtime User Actions in Recommendation to Boost Homefeed Engagement Volume
+
+
+Tag:
+recommender system
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/pinterest-engineering/how-pinterest-leverages-realtime-user-actions-in-recommendation-to-boost-homefeed-engagement-volume-165ae2e8cde8 
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+98
+
+Company:
+Instacart
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Search food and grocery items
+
+Title:
+How Instacart Uses Embeddings to Improve Search Relevance
+
+
+Tag:
+search
+
+
+Year:
+2022
+
+
+Link:
+https://tech.instacart.com/how-instacart-uses-embeddings-to-improve-search-relevance-e569839c3c36
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+99
+
+Company:
+Walmart
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Assist in e-commerce shopping 
+
+Title:
+A Unified Multi-task Model for Supporting Multiple Virtual Assistants in Walmart
+
+
+Tag:
+chatbot,NLP,voice interface
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/walmartglobaltech/a-unified-multi-task-model-for-supporting-multiple-virtual-assistants-in-walmart-2b077c2c96e
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+100
+
+Company:
+Spotify
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Search for podcasts
+
+Title:
+Introducing Natural Language Search for Podcast Episodes
+
+
+Tag:
+search,NLP
+
+
+Year:
+2022
+
+
+Link:
+https://engineering.atspotify.com/2022/03/introducing-natural-language-search-for-podcast-episodes/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+101
+
+Company:
+Nextdoor
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Predict harmful comments 
+
+Title:
+Using predictive technology to foster constructive conversations
+
+
+Tag:
+NLP,spam / content moderation
+
+
+Year:
+2022
+
+
+Link:
+https://engblog.nextdoor.com/using-predictive-technology-to-foster-constructive-conversations-4af437942bd4
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+102
+
+Company:
+Walmart
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Fill shopping cart via voice dialog
+
+Title:
+Voice Reorder Experience: add Multiple Product Items to your shopping cart
+
+
+Tag:
+voice interface
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/walmartglobaltech/voice-reorder-experience-add-multiple-product-items-to-your-shopping-cart-59d20fc61797
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+103
+
+Company:
+Expedia
+
+
+Industry:
+Travel,E-commerce and retail
+
+
+Short Description (< 5 words):
+Categorize customer feedback
+
+Title:
+Categorising Customer Feedback Using Unsupervised Learning
+
+
+Tag:
+NLP,item classification
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/expedia-group-tech/categorising-customer-feedback-using-unsupervised-learning-8608c1e62d48
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+104
+
+Company:
+Foodpanda
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Classify restaurants and cuisines
+
+Title:
+Classifying restaurant cuisines with subjective labels
+
+
+Tag:
+item classification
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/foodpanda-data/classifying-restaurant-cuisines-with-subjective-labels-fa10012d18a9 
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+105
+
+Company:
+Ebay
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Recommend products and content
+
+Title:
+Multi-Relevance Ranking Model for Similar Item Recommendation
+
+
+Tag:
+recommender system
+
+
+Year:
+2022
+
+
+Link:
+https://tech.ebayinc.com/engineering/multi-relevance-ranking-model-for-similar-item-recommendation/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+106
+
+Company:
+Gousto
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Predict subscription churn
+
+Title:
+Using Data Science to Retain Customers
+
+
+Tag:
+churn prediction
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/gousto-engineering-techbrunch/using-data-science-to-retain-customers-63f19a03a0b6
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+107
+
+Company:
+Google
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Generate summaries
+
+Title:
+Auto-generated Summaries in Google Docs
+
+
+Tag:
+product feature,NLP,generative AI
+
+
+Year:
+2022
+
+
+Link:
+https://ai.googleblog.com/2022/03/auto-generated-summaries-in-google-docs.html
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+108
+
+Company:
+Yelp
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Personalize recommendations
+
+Title:
+Beyond Matrix Factorization: Using hybrid features for user-business recommendations
+
+
+Tag:
+recommender system
+
+
+Year:
+2022
+
+
+Link:
+https://engineeringblog.yelp.com/2022/04/beyond-matrix-factorization-using-hybrid-features-for-user-business-recommendations.html
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+109
+
+Company:
+PayPal
+
+
+Industry:
+Fintech and banking
+
+
+Short Description (< 5 words):
+Prioritize sales leads
+
+Title:
+Sales Pipeline Management with Machine Learning: A Lightweight Two-Layer Ensemble Classifier Framework
+
+
+Tag:
+propensity to buy,lead scoring
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/paypal-tech/sales-pipeline-management-with-machine-learning-15398bab913b
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+110
+
+Company:
+Grubhub
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Forecast order volume
+
+Title:
+Forecasting Grubhub Order Volume At Scale
+
+
+Tag:
+demand forecasting
+
+
+Year:
+2022
+
+
+Link:
+https://bytes.grubhub.com/forecasting-grubhub-order-volume-at-scale-a966c2f901d2
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+111
+
+Company:
+Github
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Detect vulnerabilities in code
+
+Title:
+Leveraging machine learning to find security vulnerabilities
+
+
+Tag:
+product feature,ops
+
+
+Year:
+2022
+
+
+Link:
+https://github.blog/2022-02-17-leveraging-machine-learning-find-security-vulnerabilities/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+112
+
+Company:
+Uber
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Detect payment fraud
+
+Title:
+Project RADAR: Intelligent Early Fraud Detection System with Humans in the Loop
+
+
+Tag:
+fraud detection
+
+
+Year:
+2022
+
+
+Link:
+https://www.uber.com/en-GB/blog/project-radar-intelligent-early-fraud-detection/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+113
+
+Company:
+Gojek
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Predict food delivery times
+
+Title:
+How We Estimate Food Debarkation Time With 'Tensoba'
+
+
+Tag:
+ETA prediction
+
+
+Year:
+2022
+
+
+Link:
+https://www.gojek.io/blog/food-debarkation-tensoba
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+114
+
+Company:
+Uber
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Predict estimated time of arrival
+
+Title:
+DeepETA: How Uber Predicts Arrival Times Using Deep Learning
+
+
+Tag:
+ETA prediction
+
+
+Year:
+2022
+
+
+Link:
+https://www.uber.com/en-GB/blog/deepeta-how-uber-predicts-arrival-times/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+115
+
+Company:
+Trivago
+
+
+Industry:
+Travel,E-commerce and retail
+
+
+Short Description (< 5 words):
+Optimize accommodation ranking
+
+Title:
+Explore-exploit dilemma in Ranking model
+
+
+Tag:
+search
+
+
+Year:
+2022
+
+
+Link:
+https://tech.trivago.com/post/2022-11-04-explore-exploit-dilemma-in-ranking-model
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+116
+
+Company:
+Gousto
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Recommend food items and recipes
+
+Title:
+Gousto R-series Vol 2: Tackling the Cold-Start Problem in Recipe Recommendation Engine
+
+
+Tag:
+recommender system
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/gousto-engineering-techbrunch/gousto-r-series-vol-2-tackling-the-cold-start-problem-in-recipe-recommendation-engine-af92a434805f
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+117
+
+Company:
+Spotify
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Forecast user activity metrics
+
+Title:
+How We Built Infrastructure to Run User Forecasts at Spotify
+
+
+Tag:
+ops
+
+
+Year:
+2022
+
+
+Link:
+https://engineering.atspotify.com/2022/06/how-we-built-infrastructure-to-run-user-forecasts-at-spotify/ 
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+118
+
+Company:
+Google
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Summarize conversations
+
+Title:
+
+Conversation Summaries in Google Chat
+
+
+Tag:
+product feature,NLP,generative AI
+
+
+Year:
+2022
+
+
+Link:
+https://ai.googleblog.com/2022/11/conversation-summaries-in-google-chat.html
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+119
+
+Company:
+Airbnb
+
+
+Industry:
+Travel,E-commerce and retail
+
+
+Short Description (< 5 words):
+Improve travel search experience 
+
+Title:
+Building Airbnb Categories with ML and Human-in-the-Loop
+
+
+Tag:
+search,product feature
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/airbnb-engineering/building-airbnb-categories-with-ml-and-human-in-the-loop-e97988e70ebb
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+120
+
+Company:
+Uber
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Send timely push notifications
+
+Title:
+How Uber Optimizes the Timing of Push Notifications using ML and Linear Programming
+
+
+Tag:
+content personalization
+
+
+Year:
+2022
+
+
+Link:
+https://www.uber.com/en-US/blog/how-uber-optimizes-push-notifications-using-ml/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+121
+
+Company:
+Meta
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Personalize daily digest notifications
+
+Title:
+Improving Instagram notification management with machine learning and causal inference
+
+
+Tag:
+causality,content personalization
+
+
+Year:
+2022
+
+
+Link:
+https://engineering.fb.com/2022/10/31/ml-applications/instagram-notification-management-machine-learning/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+122
+
+Company:
+Instacart
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Recommend relevant food items
+
+Title:
+Personalizing Recommendations for a Learning User
+
+
+Tag:
+recommender system
+
+
+Year:
+2022
+
+
+Link:
+https://www.instacart.com/company/how-its-made/personalizing-recommendations-for-a-learning-user/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+123
+
+Company:
+Expedia
+
+
+Industry:
+Travel,E-commerce and retail
+
+
+Short Description (< 5 words):
+Rank relevant travel deals
+
+Title:
+How to Optimise Rankings with Cascade Bandits
+
+
+Tag:
+search
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/expedia-group-tech/how-to-optimise-rankings-with-cascade-bandits-5d92dfa0f16b
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+124
+
+Company:
+Doordash
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Personalize recommendations on homepage
+
+Title:
+Homepage Recommendation with Exploitation and Exploration
+
+
+Tag:
+recommender system
+
+
+Year:
+2022
+
+
+Link:
+https://doordash.engineering/2022/10/05/homepage-recommendation-with-exploitation-and-exploration/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+125
+
+Company:
+Linkedin
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Improve post search functionality
+
+Title:
+Improving Post Search at LinkedIn
+
+
+Tag:
+search
+
+
+Year:
+2022
+
+
+Link:
+https://engineering.linkedin.com/blog/2022/improving-post-search-at-linkedin
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+126
+
+Company:
+Artefact
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Evaluate success of past promotions
+
+Title:
+Forecasting something that never happened: how we estimated past promotions profitability
+
+
+Tag:
+demand forecasting
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/artefact-engineering-and-data-science/forecasting-something-that-never-happened-how-we-estimated-past-promotions-profitability-5f55cfa1d477
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+127
+
+Company:
+Doordash
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Find high-value merchants
+
+Title:
+Building the Model Behind DoorDash’s Expansive Merchant Selection
+
+
+Tag:
+lead scoring,demand forecasting
+
+
+Year:
+2022
+
+
+Link:
+https://doordash.engineering/2022/04/19/building-merchant-selection/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+128
+
+Company:
+Grammarly
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Suggest text edits
+
+Title:
+Under the Hood of the Grammarly Editor, Part Two: How Suggestions Work
+
+
+Tag:
+product feature,NLP,generative AI
+
+
+Year:
+2022
+
+
+Link:
+https://www.grammarly.com/blog/engineering/how-suggestions-work-grammarly-editor/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+129
+
+Company:
+Amazon
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Suggest music to listen to
+
+Title:
+The Amazon Music conversational recommender is hitting the right notes
+
+
+Tag:
+recommender system,product feature,voice interface
+
+
+Year:
+2022
+
+
+Link:
+https://www.amazon.science/latest-news/how-amazon-music-uses-recommendation-system-machine-learning
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+130
+
+Company:
+Snap
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Rank relevant ads
+
+Title:
+Machine Learning for Snapchat Ad Ranking
+
+
+Tag:
+ad ranking / targeting
+
+
+Year:
+2022
+
+
+Link:
+https://eng.snap.com/machine-learning-snap-ad-ranking
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+131
+
+Company:
+Instacart
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Autocomplete user searches in e-commerce
+
+Title:
+How Instacart Uses Machine Learning-Driven Autocomplete to Help People Fill Their Carts
+
+
+Tag:
+NLP,search,product feature
+
+
+Year:
+2022
+
+
+Link:
+https://tech.instacart.com/how-instacart-uses-machine-learning-driven-autocomplete-to-help-people-fill-their-carts-9bc56d22bafb
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+132
+
+Company:
+Zillow
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Select tags for product listings
+
+Title:
+Helping Home Shoppers Find a Home to Love Through Home Insights
+
+
+Tag:
+NLP,product feature,item classification
+
+
+Year:
+2022
+
+
+Link:
+https://www.zillow.com/tech/helping-shoppers-find-a-home-using-home-insights/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+133
+
+Company:
+Netflix
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Detect account or content fraud
+
+Title:
+Machine Learning for Fraud Detection in Streaming Services
+
+
+Tag:
+fraud detection
+
+
+Year:
+2022
+
+
+Link:
+https://netflixtechblog.medium.com/machine-learning-for-fraud-detection-in-streaming-services-b0b4ef3be3f6
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+134
+
+Company:
+Airbnb
+
+
+Industry:
+Travel,E-commerce and retail
+
+
+Short Description (< 5 words):
+Improve customer support
+
+Title:
+How AI Text Generation Models Are Reshaping Customer Support at Airbnb
+
+
+Tag:
+ops,customer support,generative AI
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/airbnb-engineering/how-ai-text-generation-models-are-reshaping-customer-support-at-airbnb-a851db0b4fa3
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+135
+
+Company:
+Linkedin
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Predict churn and upsell products
+
+Title:
+The journey to build an explainable AI-driven recommendation system
+
+
+Tag:
+churn prediction,propensity to buy,lead scoring
+
+
+Year:
+2022
+
+
+Link:
+https://engineering.linkedin.com/blog/2022/the-journey-to-build-an-explainable-ai-driven-recommendation-sys
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+136
+
+Company:
+Autotrader
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Personalize automotive search results 
+
+Title:
+Real-Time Personalisation of Search Results with Auto Trader's Customer Data Platform
+
+
+Tag:
+search
+
+
+Year:
+2022
+
+
+Link:
+https://engineering.autotrader.co.uk/2022/11/23/real-time-personalisation-of-search-results-with-auto-traders-customer-data-platform.html
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+137
+
+Company:
+Peloton
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Recommend fitness training videos
+
+Title:
+How We Built: An Early-Stage Machine Learning Model for Recommendations
+
+
+Tag:
+recommender system
+
+
+Year:
+2022
+
+
+Link:
+https://www.onepeloton.com/press/articles/how-we-built-machine-learning
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+138
+
+Company:
+Walmart
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Categorize e-commerce products
+
+Title:
+Semantic Label Representation with an Application on Multimodal Product Categorization
+
+
+Tag:
+item classification,NLP
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/walmartglobaltech/semantic-label-representation-with-an-application-on-multimodal-product-categorization-63d668b943b7
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+139
+
+Company:
+Doordash
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Search food and grocery items
+
+Title:
+3 Changes to Expand DoorDash’s Product Search Beyond Delivery
+
+
+Tag:
+search
+
+
+Year:
+2022
+
+
+Link:
+https://doordash.engineering/2022/05/10/3-changes-to-expand-doordashs-product-search/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+140
+
+Company:
+Faire
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Rank e-commerce items (feature store)
+
+Title:
+Real-time ranking at Faire part 2: the feature store
+
+
+Tag:
+search
+
+
+Year:
+2022
+
+
+Link:
+https://craft.faire.com/real-time-ranking-at-faire-part-2-the-feature-store-3f1013d3fe5d
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+141
+
+Company:
+New York Times
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Personalize paywall limits
+
+Title:
+How The New York Times Uses Machine Learning To Make Its Paywall Smarter
+
+
+Tag:
+causality,content personalization,product feature
+
+
+Year:
+2022
+
+
+Link:
+https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+142
+
+Company:
+Linkedin
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Predict ad click-through rate
+
+Title:
+Challenges and practical lessons from building a deep-learning-based ads CTR prediction model
+
+
+Tag:
+ad ranking / targeting
+
+
+Year:
+2022
+
+
+Link:
+https://engineering.linkedin.com/blog/2022/challenges-and-practical-lessons-from-building-a-deep-learning-b
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+143
+
+Company:
+Zillow
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Identify customers that are likely to convert
+
+Title:
+Identifying High-Intent Buyers
+
+
+
+Tag:
+propensity to buy
+
+
+Year:
+2022
+
+
+Link:
+https://www.zillow.com/tech/identifying-high-intent-buyers/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+144
+
+Company:
+Netflix
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Recommend content to view
+
+Title:
+Reinforcement Learning for Budget Constrained Recommendations
+
+
+Tag:
+recommender system
+
+
+Year:
+2022
+
+
+Link:
+https://netflixtechblog.com/reinforcement-learning-for-budget-constrained-recommendations-6cbc5263a32a
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+145
+
+Company:
+Walmart
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Forecast anomalies in refrigeration 
+
+Title:
+Forecast Anomalies in Refrigeration with PySpark & Sensor-data
+
+
+Tag:
+ops,predictive maintenance
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/walmartglobaltech/forecast-anomalies-in-refrigeration-with-pyspark-sensor-data-195f23ae24e2
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+146
+
+Company:
+Stitch Fix
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Recommend e-commerce items
+
+Title:
+Client Time Series Model: a Multi-Target Recommender System based on Temporally-Masked Encoders
+
+
+Tag:
+recommender system
+
+
+Year:
+2022
+
+
+Link:
+https://multithreaded.stitchfix.com/blog/2022/10/14/client-time-series-model/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+147
+
+Company:
+Gojek
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Predict estimated time of delivery
+
+Title:
+How We Estimate Food Debarkation Time With ‘Tensoba’
+
+
+Tag:
+ETA prediction
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/gojekengineering/how-we-estimate-food-debarkation-time-with-tensoba-da05674cb758
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+148
+
+Company:
+Zillow
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Extract text features
+
+Title:
+Incorporating Listing Descriptions into the Zestimate
+
+
+Tag:
+NLP,product feature
+
+
+Year:
+2022
+
+
+Link:
+https://www.zillow.com/tech/incorporating-listing-descriptions-into-the-zestimate/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+149
+
+Company:
+Etsy
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Rank marketplace search results
+
+Title:
+Deep Learning for Search Ranking at Etsy
+
+
+Tag:
+search
+
+
+Year:
+2022
+
+
+Link:
+https://www.etsy.com/uk/codeascraft/deep-learning-for-search-ranking-at-etsy
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+150
+
+Company:
+Walmart
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Curate e-commerce product recommendations
+
+Title:
+Scaling Product Recommendations using Basket Analysis- Part 1
+
+
+Tag:
+recommender system
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/walmartglobaltech/scaling-product-recommendations-using-basket-analysis-part-1-8434d4f8756f
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+151
+
+Company:
+Lyft
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Optimize trip price
+
+Title:
+Pricing at Lyft
+
+
+Tag:
+pricing
+
+
+Year:
+2022
+
+
+Link:
+https://eng.lyft.com/pricing-at-lyft-8a4022065f8b
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+152
+
+Company:
+Grammarly
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Correct grammatical errors
+
+Title:
+Innovating the Basics: Achieving Superior Precision and Recall in Grammatical Error Correction
+
+
+Tag:
+NLP,product feature
+
+
+Year:
+2022
+
+
+Link:
+https://www.grammarly.com/blog/engineering/innovating-the-basics/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+153
+
+Company:
+Twitter
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Recommend accounts to follow
+
+Title:
+Model-based candidate generation for account recommendations
+
+
+Tag:
+recommender system
+
+
+Year:
+2022
+
+
+Link:
+https://blog.twitter.com/engineering/en_us/topics/insights/2022/model-based-candidate-generation-for-account-recommendations
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+154
+
+Company:
+Airbnb
+
+
+Industry:
+Travel,E-commerce and retail
+
+
+Short Description (< 5 words):
+Improve customer travel experience
+
+Title:
+Intelligent Automation Platform: Empowering Conversational AI and Beyond at Airbnb
+
+
+Tag:
+NLP,voice interface
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/airbnb-engineering/intelligent-automation-platform-empowering-conversational-ai-and-beyond-at-airbnb-869c44833ff2
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+155
+
+Company:
+Swiggy
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Flag incorrectly captured locations
+
+Title:
+Using deep learning to detect dissonance between address text and location
+
+
+Tag:
+product feature,ops
+
+
+Year:
+2022
+
+
+Link:
+https://bytes.swiggy.com/using-deep-learning-to-detect-dissonance-between-address-text-and-location-4b228bc2c3fb
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+156
+
+Company:
+Uber
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Verify documents
+
+Title:
+Uber’s Real-Time Document Check
+
+
+Tag:
+product feature,fraud detection,CV
+
+
+Year:
+2022
+
+
+Link:
+https://www.uber.com/en-GB/blog/ubers-real-time-document-check/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+157
+
+Company:
+Wayfair
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Optimize email sending time and frequency
+
+Title:
+Nightingale: Scalable Daily Sales Email Sending Decision Model
+
+
+Tag:
+content personalization
+
+
+Year:
+2022
+
+
+Link:
+https://www.aboutwayfair.com/careers/tech-blog/nightingale-scalable-daily-email-sending-decision-model
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+158
+
+Company:
+Didact AI
+
+
+Industry:
+Fintech and banking
+
+
+Short Description (< 5 words):
+Predict stock prices
+
+Title:
+Didact AI: The anatomy of an ML-powered stock picking engine
+
+
+Tag:
+pricing,product feature
+
+
+Year:
+2022
+
+
+Link:
+https://principiamundi.com/posts/didact-anatomy
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+159
+
+Company:
+Wayfair
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Identify specific entities within a text
+
+Title:
+Wayfair’s New Approach to Aspect Based Sentiment Analysis Helps Customers Easily Find “Long Tail” Products
+
+
+Tag:
+search,item classification
+
+
+Year:
+2022
+
+
+Link:
+https://www.aboutwayfair.com/careers/tech-blog/wayfairs-new-approach-to-aspect-based-sentiment-analysis-helps-customers-easily-find-long-tail-products
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+160
+
+Company:
+Oda
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Predict driver's non-driving time
+
+Title:
+How we went from zero insight to predicting service time with a machine learning model — Part 2/2
+
+
+Tag:
+ETA prediction,ops
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/oda-product-tech/how-we-went-from-zero-insight-to-predicting-service-time-with-a-machine-learning-model-part-2-2-ad8b0c3e4838
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+161
+
+Company:
+Wayfair
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Predict intent in customer support messages
+
+
+Title:
+Building Wayfair’s First Virtual Assistant: Automating Customer Service by Text Based Intent Prediction
+
+
+Tag:
+NLP,customer support
+
+
+Year:
+2022
+
+
+Link:
+https://www.aboutwayfair.com/careers/tech-blog/building-wayfairs-first-virtual-assistant-automating-customer-service-by-text-based-intent-prediction
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+162
+
+Company:
+Linkedin
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Estimate the impact of product changes
+
+Title:
+Ocelot: Scaling observational causal inference at LinkedIn
+
+
+Tag:
+causality
+
+
+Year:
+2022
+
+
+Link:
+https://engineering.linkedin.com/blog/2022/ocelot--scaling-observational-causal-inference-at-linkedin
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+163
+
+Company:
+Grab
+
+
+Industry:
+Delivery and mobility,Banking and finance
+
+
+Short Description (< 5 words):
+Detect fraud with graph models
+
+Title:
+Graph for fraud detection
+
+
+Tag:
+fraud detection
+
+
+Year:
+2022
+
+
+Link:
+https://engineering.grab.com/graph-for-fraud-detection
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+164
+
+Company:
+Lyft
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Make causally valid forecasts
+
+Title:
+Causal Forecasting at Lyft (Part 1)
+
+
+Tag:
+causality,demand forecasting
+
+
+Year:
+2022
+
+
+Link:
+https://eng.lyft.com/causal-forecasting-at-lyft-part-1-14cca6ff3d6d
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+165
+
+Company:
+Glassdoor
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Recommend interesting posts to users 
+
+Title:
+Personalized Fishbowl Recommendations with Learned Embeddings: Part 2
+
+
+Tag:
+recommender system
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/glassdoor-engineering/personalized-fishbowl-recommendations-with-learned-embeddings-part-2-78a16b04d396
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+166
+
+Company:
+Netflix
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Improve video quality at scale
+
+Title:
+For your eyes only: improving Netflix video quality with neural networks
+
+
+Tag:
+ops,product feature
+
+
+Year:
+2022
+
+
+Link:
+https://netflixtechblog.com/for-your-eyes-only-improving-netflix-video-quality-with-neural-networks-5b8d032da09c
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+167
+
+Company:
+Glassdoor
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Recommend interesting posts to users 
+
+Title:
+Personalized Fishbowl Recommendations with Learned Embeddings: Part 1
+
+
+Tag:
+recommender system
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/glassdoor-engineering/personalized-fishbowl-recommendations-with-learned-embeddings-part-1-6031abe84661
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+168
+
+Company:
+Dailymotion
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Recommend diversified video content
+
+Title:
+Optimizing video feed recommendations with diversity: Machine Learning first steps
+
+
+Tag:
+recommender system
+
+
+Year:
+2022
+
+
+Link:
+https://medium.com/dailymotion/optimizing-video-feed-recommendations-with-diversity-machine-learning-first-steps-4cf9abdbbffd
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+169
+
+Company:
+Siemens Healthineers
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Optimize software testing
+
+Title:
+Using Machine Learning for Fast Test Feedback to Developers and Test Suite Optimization
+
+
+Tag:
+ops
+
+
+Year:
+2022
+
+
+Link:
+https://www.infoq.com/articles/machine-learning-test-feedback-optimization/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+170
+
+Company:
+Lyft
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Make causally valid forecasts
+
+Title:
+Causal Forecasting at Lyft (Part 2)
+
+
+Tag:
+causality,demand forecasting
+
+
+Year:
+2022
+
+
+Link:
+https://eng.lyft.com/causal-forecasting-at-lyft-part-2-418f1febca5a
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+171
+
+Company:
+Linkedin
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Deliver more relevant job recommendations
+
+Title:
+Improving job matching with machine-learned activity features
+
+
+Tag:
+recommender system
+
+
+Year:
+2022
+
+
+Link:
+https://engineering.linkedin.com/blog/2022/improving-job-matching-with-machine-learned-activity-features-
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+172
+
+Company:
+Cookidoo
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Personalize recipe recommendations
+
+Title:
+Building A Recipe Recommender System For the Thermomix on Cookidoo – Part 1
+
+
+Tag:
+recommender system
+
+
+Year:
+2022
+
+
+Link:
+https://www.alexanderthamm.com/de/blog/building-a-recipe-recommender-system-for-the-thermomix-on-cookidoo/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+173
+
+Company:
+Linkedin
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Improve ML model performance with multitask learning
+
+Title:
+Applying multitask learning to AI models at LinkedIn
+
+
+Tag:
+search,ops
+
+
+Year:
+2022
+
+
+Link:
+https://engineering.linkedin.com/blog/2022/applying-multitask-learning-to-ai-models-at-linkedin
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+174
+
+Company:
+Netflix
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Apply causality in experiments and marketing
+
+Title:
+A Survey of Causal Inference Applications at Netflix
+
+
+Tag:
+causality
+
+
+Year:
+2022
+
+
+Link:
+https://netflixtechblog.com/a-survey-of-causal-inference-applications-at-netflix-b62d25175e6f
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+175
+
+Company:
+Pinterest
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Recommend bids for advertizers
+
+Title:
+Advertiser Recommendation Systems at Pinterest
+
+
+Tag:
+recommender system,ad ranking / targeting
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/pinterest-engineering/advertiser-recommendation-systems-at-pinterest-ccb255fbde20
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+176
+
+Company:
+Grubhub
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Forecast volume order
+
+Title:
+“I See Tacos In Your Future”: Order Volume Forecasting at Grubhub
+
+
+Tag:
+demand forecasting
+
+
+Year:
+2021
+
+
+Link:
+https://bytes.grubhub.com/i-see-tacos-in-your-future-order-volume-forecasting-at-grubhub-44d47ad08d5b
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+177
+
+Company:
+Slack
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Detect spam invites
+
+Title:
+Blocking Slack Invite Spam With Machine Learning
+
+
+Tag:
+spam / content moderation
+
+
+Year:
+2021
+
+
+Link:
+https://slack.engineering/blocking-slack-invite-spam-with-machine-learning/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+178
+
+Company:
+Faire
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Search and navigate marketplace items
+
+Title:
+Building Faire’s new marketplace ranking infrastructure
+
+
+Tag:
+search
+
+
+Year:
+2021
+
+
+Link:
+https://craft.faire.com/building-faires-new-marketplace-ranking-infrastructure-a53bf938aba0
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+179
+
+Company:
+Doordash
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Predict delivery supply and demand
+
+Title:
+Managing Supply and Demand Balance Through Machine Learning
+
+
+Tag:
+demand forecasting
+
+
+Year:
+2021
+
+
+Link:
+https://doordash.engineering/2021/06/29/managing-supply-and-demand-balance-through-machine-learning/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+180
+
+Company:
+OLX
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Recommend e-commerce items
+
+Title:
+Item2Vec: Neural Item Embeddings to enhance recommendations
+
+
+Tag:
+recommender system
+
+
+Year:
+2021
+
+
+Link:
+https://tech.olx.com/item2vec-neural-item-embeddings-to-enhance-recommendations-1fd948a6f293
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+181
+
+Company:
+Dropbox
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Search by image content 
+
+Title:
+How image search works at Dropbox
+
+
+Tag:
+search,CV
+
+
+Year:
+2021
+
+
+Link:
+https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+182
+
+Company:
+Scribd
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Extract metadata from documents
+
+Title:
+Information Extraction at Scribd
+
+
+Tag:
+NLP
+
+
+Year:
+2021
+
+
+Link:
+https://tech.scribd.com/blog/2021/information-extraction-at-scribd.html
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+183
+
+Company:
+Microsoft
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Rank customer support cases
+
+Title:
+ML and customer support (Part 1): Using Machine Learning to enable world-class customer support
+
+
+Tag:
+customer support,ops
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/data-science-at-microsoft/ml-and-customer-support-part-1-using-machine-learning-to-enable-world-class-customer-support-c90b3b02f6a3
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+184
+
+Company:
+Stitch Fix
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Recommend e-commerce inventory
+
+Title:
+Algorithm-Assisted Inventory Curation
+
+
+
+Tag:
+recommender system
+
+
+Year:
+2021
+
+
+Link:
+https://multithreaded.stitchfix.com/blog/2021/05/12/algorithm-assisted-inventory-curation/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+185
+
+Company:
+Twitter
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Forecast resource usage and cost
+
+Title:
+Forecasting SQL query resource usage with machine learning
+
+
+Tag:
+ops
+
+
+Year:
+2021
+
+
+Link:
+https://blog.twitter.com/engineering/en_us/topics/insights/2021/forecasting-sql-query-resource-usage-with-machine-learning
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+186
+
+Company:
+Google
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Suggest past photos to look at
+
+Title:
+A snapshot of AI-powered reminiscing in Google Photos
+
+
+Tag:
+CV,product feature
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/people-ai-research/a-snapshot-of-ai-powered-reminiscing-in-google-photos-5a05d2f2aa46
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+187
+
+Company:
+Uber
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Identify cash intermediaries 
+
+Title:
+Applying Machine Learning in Internal Audit with Sparsely Labeled Data
+
+
+Tag:
+ops
+
+
+Year:
+2021
+
+
+Link:
+https://www.uber.com/en-GB/blog/ml-internal-audit/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+188
+
+Company:
+Microsoft
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Cluster customer support issues by similarity
+
+Title:
+ML and customer support (Part 2): Leveraging topic modeling to identify the top investment areas in support cases
+
+
+Tag:
+NLP,customer support,ops
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/data-science-at-microsoft/ml-and-customer-support-part-2-leveraging-topic-modeling-to-identify-the-top-investment-areas-in-f0348382c251
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+189
+
+Company:
+Gousto
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Recommend food items and recipes
+
+Title:
+Gousto R-series vol 1: Three tales of the Rouxcommender family
+
+
+Tag:
+recommender system
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/gousto-engineering-techbrunch/gousto-r-series-vol-1-three-tales-of-the-rouxcommender-family-a3555a93edea
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+190
+
+Company:
+Apple
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Recognize people in photos
+
+Title:
+Recognizing People in Photos Through Private On-Device Machine Learning
+
+
+Tag:
+CV,product feature
+
+
+Year:
+2021
+
+
+Link:
+https://machinelearning.apple.com/research/recognizing-people-photos
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+191
+
+Company:
+Pinterest
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Find lookalike users for ad targeting
+
+Title:
+The machine learning behind delivering relevant ads
+
+
+Tag:
+ad ranking / targeting
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/pinterest-engineering/the-machine-learning-behind-delivering-relevant-ads-8987fc5ba1c0
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+192
+
+Company:
+Pinterest
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Detect spam users
+
+Title:
+Fighting Spam using Clustering and Automated Rule Creation
+
+
+Tag:
+spam / content moderation
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/pinterest-engineering/fighting-spam-using-clustering-and-automated-rule-creation-1c01d8c11a05
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+193
+
+Company:
+PayPal
+
+
+Industry:
+Fintech and banking
+
+
+Short Description (< 5 words):
+Detect payment fraud 
+
+Title:
+Deploying Large-scale Fraud Detection Machine Learning Models at PayPal
+
+
+Tag:
+fraud detection
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/paypal-tech/machine-learning-model-ci-cd-and-shadow-platform-8c4f44998c78
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+194
+
+Company:
+Datto
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Predict hard drive failures
+
+Title:
+Predicting Hard Drive Failure with Machine Learning
+
+
+Tag:
+ops,product feature
+
+
+Year:
+2021
+
+
+Link:
+https://datto.engineering/post/predicting-hard-drive-failure-with-machine-learning
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+195
+
+Company:
+Bumble
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Detect rude messages
+
+Title:
+Multilingual message content moderation at scale (part 2)
+
+
+Tag:
+spam / content moderation,NLP
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/bumble-tech/multilingual-message-content-moderation-at-scale-7ea562e29e25
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+196
+
+Company:
+Nextdoor
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Send relevant and timely updates
+
+Title:
+Nextdoor Notifications: How we use ML to keep neighbors informed
+
+
+Tag:
+content personalization
+
+
+Year:
+2021
+
+
+Link:
+https://engblog.nextdoor.com/nextdoor-notifications-how-we-use-ml-to-keep-neighbors-informed-57d8f707aab0?gi=85c7ad8c8658
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+197
+
+Company:
+Dropbox
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Identify best time for renewal charge
+
+Title:
+Optimizing payments with machine learning
+
+
+Tag:
+ops
+
+
+Year:
+2021
+
+
+Link:
+https://dropbox.tech/machine-learning/optimizing-payments-with-machine-learning
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+198
+
+Company:
+Swiggy
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Rank restaurants in search
+
+Title:
+Learning To Rank Restaurants
+
+
+Tag:
+search
+
+
+Year:
+2021
+
+
+Link:
+https://bytes.swiggy.com/learning-to-rank-restaurants-c6a69ba4b330
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+199
+
+Company:
+Brex
+
+
+Industry:
+Fintech and banking
+
+
+Short Description (< 5 words):
+Classify bank transactions
+
+Title:
+How We Built a (Mostly) Automated System to Solve Credit Card Merchant Classification
+
+
+Tag:
+item classification
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/brexeng/how-we-built-a-mostly-automated-system-to-solve-credit-card-merchant-classification-f9108029e59b
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+200
+
+Company:
+Grammarly
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Capture what readers pay attention to
+
+Title:
+ATTN: How Grammarly’s NLP/ML Team Figured Out Where Readers Focus in an Email
+
+
+Tag:
+NLP,product feature
+
+
+Year:
+2021
+
+
+Link:
+https://www.grammarly.com/blog/engineering/readers-attention/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+201
+
+Company:
+Doordash
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Extract information from images
+
+Title:
+How DoorDash Quickly Spins Up Multiple Image Recognition Use Cases
+
+
+Tag:
+CV,ops
+
+
+Year:
+2021
+
+
+Link:
+https://doordash.engineering/2021/11/03/how-doordash-quickly-spins-up-multiple-image-recognition-use-cases/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+202
+
+Company:
+Apple
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Identify best user experience
+
+Title:
+Interpretable Adaptive Optimization
+
+
+Tag:
+content personalization
+
+
+Year:
+2021
+
+
+Link:
+https://machinelearning.apple.com/research/interpretable-adaptive-optimization
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+203
+
+Company:
+Airbnb
+
+
+Industry:
+Travel,E-commerce and retail
+
+
+Short Description (< 5 words):
+Data privacy and security
+
+Title:
+Automating Data Protection at Scale, Part 2
+
+
+Tag:
+ops
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/airbnb-engineering/automating-data-protection-at-scale-part-2-c2b8d2068216
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+204
+
+Company:
+Capital One
+
+
+Industry:
+Fintech and banking
+
+
+Short Description (< 5 words):
+Identify suspicious account activity
+
+Title:
+How Machine Learning Can Help Fight Money Laundering
+
+
+Tag:
+fraud detection
+
+
+Year:
+2021
+
+
+Link:
+https://www.capitalone.com/tech/machine-learning/how-machine-learning-can-help-fight-money-laundering/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+205
+
+Company:
+Wayfair
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Assign color names to products
+
+Title:
+From RGB to Descriptive Color Names: Wayfair's in-house color algorithms to improve customer shopping experience.
+
+
+Tag:
+item classification
+
+
+Year:
+2021
+
+
+Link:
+https://www.aboutwayfair.com/careers/tech-blog/from-rgb-to-descriptive-color-names-wayfairs-in-house-color-algorithms-to-improve-customer-shopping-experience
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+206
+
+Company:
+Capital One
+
+
+Industry:
+Fintech and banking
+
+
+Short Description (< 5 words):
+Automate incident management 
+
+Title:
+Automated detection, diagnosis & remediation of app failure
+
+
+Tag:
+ops
+
+
+Year:
+2021
+
+
+Link:
+https://www.capitalone.com/tech/machine-learning/automated-detection-diagnosis-remediation-of-application-failure/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+207
+
+Company:
+Pinterest
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Detect policy-violating comments
+
+Title:
+How Pinterest powers a healthy comment ecosystem with machine learning
+
+
+Tag:
+NLP,spam / content moderation
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/pinterest-engineering/how-pinterest-powers-a-healthy-comment-ecosystem-with-machine-learning-9e5c3414c8ad
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+208
+
+Company:
+Spotify
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Personalize homepage content (podcasts, playlist, music)
+
+Title:
+The Rise (and Lessons Learned) of ML Models to Personalize Content on Home (Part I)
+
+
+Tag:
+recommender system
+
+
+Year:
+2021
+
+
+Link:
+https://engineering.atspotify.com/2021/11/the-rise-and-lessons-learned-of-ml-models-to-personalize-content-on-home-part-i/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+209
+
+Company:
+Stitch Fix
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Recommend looks
+
+Title:
+Stitching together spaces for query-based recommendations
+
+
+Tag:
+recommender system,product feature,CV
+
+
+Year:
+2021
+
+
+Link:
+https://multithreaded.stitchfix.com/blog/2021/08/13/stitching-together-spaces-for-query-based-recommendations/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+210
+
+Company:
+Ocado 
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Forecast e-commerce grocery demand
+
+Title:
+Finding the sweet spot
+
+
+Tag:
+demand forecasting
+
+
+Year:
+2021
+
+
+Link:
+https://careers.ocadogroup.com/blogs/careers-blogs/our-technologies/finding-the-sweet-spot
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+211
+
+Company:
+Walmart
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Categorize e-commerce products
+
+Title:
+Deep Learning: Product Categorization and Shelving
+
+
+Tag:
+item classification
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/walmartglobaltech/deep-learning-product-categorization-and-shelving-630571e81e96
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+212
+
+Company:
+Walmart
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Recommend learning content
+
+Title:
+Mozrt, a Deep Learning Recommendation System Empowering Walmart Store Associates with a Personalized Learning Experience
+
+
+Tag:
+recommender system
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/walmartglobaltech/mozrt-a-deep-learning-recommendation-system-empowering-walmart-store-associates-with-a-5d42c08d88da
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+213
+
+Company:
+Walmart
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Identify refrigeration defrost
+
+Title:
+Predicting Defrost in Refrigeration Cases at Walmart using Fourier Transform
+
+
+Tag:
+ops,predictive maintenance
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/walmartglobaltech/predicting-defrost-in-refrigeration-cases-at-walmart-using-fourier-transform-e64c0c59323
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+214
+
+Company:
+New York Times
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Recommend content to read
+
+Title:
+Machine Learning and Reader Input Help Us Recommend Articles
+
+
+Tag:
+recommender system
+
+
+Year:
+2021
+
+
+Link:
+https://open.nytimes.com/we-recommend-articles-with-a-little-help-from-our-friends-machine-learning-and-reader-input-e17e85d6cf04
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+215
+
+Company:
+Mercado Libre
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Forecast demand for e-commerce items
+
+Title:
+Marketplace Forecasting: Sales or Demand? Why not both? Let’s find out!
+
+
+Tag:
+demand forecasting
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/mercadolibre-tech/global-time-series-forecasting-models-for-item-level-demand-and-sales-forecasts-in-our-marketplace-aee2956957ae
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+216
+
+Company:
+Swiggy
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Rank food dishes in search
+
+Title:
+Using Deep Learning for Ranking in Dish Search
+
+
+Tag:
+recommender system,search
+
+
+Year:
+2021
+
+
+Link:
+https://bytes.swiggy.com/using-deep-learning-for-ranking-in-dish-search-4df2772dddce
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+217
+
+Company:
+PayPal
+
+
+Industry:
+Fintech and banking
+
+
+Short Description (< 5 words):
+Recommend financial products
+
+Title:
+Cross-Selling Optimization Using Deep Learning
+
+
+Tag:
+propensity to buy
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/paypal-tech/a-deep-learning-based-approach-to-optimizing-actions-e1ae9d1df152
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+218
+
+Company:
+Wayfair
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Automate ads placement and bidding
+
+Title:
+Evolution of Ads Bidding at Wayfair
+
+
+Tag:
+ad ranking / targeting
+
+
+Year:
+2021
+
+
+Link:
+https://www.aboutwayfair.com/careers/tech-blog/evolution-of-ads-bidding-at-wayfair
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+219
+
+Company:
+Capital One
+
+
+Industry:
+Fintech and banking
+
+
+Short Description (< 5 words):
+Improve cardholder experience
+
+Title:
+Improving Virtual Card Numbers with Edge Machine Learning
+
+
+Tag:
+product feature
+
+
+Year:
+2021
+
+
+Link:
+https://www.capitalone.com/tech/machine-learning/edge-machine-learning-eno-virtual-card-numbers/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+220
+
+Company:
+Shopify
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Categorize e-commerce products
+
+Title:
+Using Rich Image and Text Data to Categorize Products at Scale
+
+
+Tag:
+item classification,NLP,CV
+
+
+Year:
+2021
+
+
+Link:
+https://shopify.engineering/using-rich-image-text-data-categorize-products
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+221
+
+Company:
+Scribd
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Recommend content to read
+
+Title:
+Embedding-based Retrieval at Scribd
+
+
+Tag:
+recommender system
+
+
+Year:
+2021
+
+
+Link:
+https://tech.scribd.com/blog/2021/embedding-based-retrieval-scribd.html
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+222
+
+Company:
+Swiggy
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Detect fraud in online food delivery
+
+Title:
+DeFraudNet: An End-to-End Weak Supervision Framework to Detect Fraud in Online Food Delivery
+
+
+Tag:
+fraud detection
+
+
+Year:
+2021
+
+
+Link:
+https://bytes.swiggy.com/defraudnet-an-end-to-end-weak-supervision-framework-to-detect-fraud-in-online-food-delivery-22366ddce461
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+223
+
+Company:
+Amazon
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Predict coordinates of delivery location
+
+Title:
+Using learning-to-rank to precisely locate where to deliver packages
+
+
+Tag:
+ops
+
+
+Year:
+2021
+
+
+Link:
+https://www.amazon.science/blog/using-learning-to-rank-to-precisely-locate-where-to-deliver-packages
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+224
+
+Company:
+PayPal
+
+
+Industry:
+Fintech and banking
+
+
+Short Description (< 5 words):
+Predict declined transactions
+
+Title:
+Using Machine Learning to Improve Payment Authorization Rate
+
+
+Tag:
+product feature,ops
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/paypal-tech/using-machine-learning-to-improve-payment-authorization-rates-bc3b2cbf4999
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+225
+
+Company:
+Stripe
+
+
+Industry:
+Fintech and banking
+
+
+Short Description (< 5 words):
+Detect fraud in online payments
+
+Title:
+A primer on machine learning for fraud detection
+
+
+Tag:
+fraud detection
+
+
+Year:
+2021
+
+
+Link:
+https://stripe.com/en-mx/guides/primer-on-machine-learning-for-fraud-protection
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+226
+
+Company:
+Slack
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Predict Slack connect invites
+
+Title:
+Email Classification
+
+
+Tag:
+product feature
+
+
+Year:
+2021
+
+
+Link:
+https://slack.engineering/email-classification/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+227
+
+Company:
+Wayfair
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Recommend furniture items
+
+Title:
+MARS: Transformer Networks for Sequential Recommendation
+
+
+Tag:
+recommender system
+
+
+Year:
+2021
+
+
+Link:
+https://www.aboutwayfair.com/careers/tech-blog/mars-transformer-networks-for-sequential-recommendation
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+228
+
+Company:
+Grammarly
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Detect grammatical errors
+
+Title:
+Grammatical Error Correction: Tag, Not Rewrite
+
+
+Tag:
+product feature,NLP,generative AI
+
+
+Year:
+2021
+
+
+Link:
+https://www.grammarly.com/blog/engineering/gec-tag-not-rewrite/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+229
+
+Company:
+Nordstrom
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Generate outfit combinations
+
+Title:
+AI-Created Outfits
+
+
+Tag:
+product feature,recommender system,CV
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/tech-at-nordstrom/ai-created-outfits-9529300a1af3
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+230
+
+Company:
+Doordash
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Deliver orders on time
+
+Title:
+Using ML and Optimization to Solve DoorDash’s Dispatch Problem
+
+
+Tag:
+ops,ETA prediction
+
+
+Year:
+2021
+
+
+Link:
+https://doordash.engineering/2021/08/17/using-ml-and-optimization-to-solve-doordashs-dispatch-problem/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+231
+
+Company:
+Zillow
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Recommend similar homes 
+
+Title:
+Improving Recommendation Quality by Tapping into Listing Text
+
+
+Tag:
+recommender system,NLP
+
+
+Year:
+2021
+
+
+Link:
+https://www.zillow.com/tech/improve-quality-listing-text/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+232
+
+Company:
+Lifen
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Recognize PDF layout
+
+Title:
+Fast graph-based layout detection
+
+
+Tag:
+product feature
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/lifen-engineering/fast-graph-based-layout-detection-19fc7ab11b17
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+233
+
+Company:
+PayPal
+
+
+Industry:
+Fintech and banking
+
+
+Short Description (< 5 words):
+Prevent repeated payment fraud
+
+Title:
+How PayPal Uses Real-time Graph Database and Graph Analysis to Fight Fraud
+
+
+Tag:
+fraud detection
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/paypal-tech/how-paypal-uses-real-time-graph-database-and-graph-analysis-to-fight-fraud-96a2b918619a
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+234
+
+Company:
+Bumble
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Detect rude messages
+
+Title:
+Multilingual message content moderation at scale (part 1)
+
+
+Tag:
+spam / content moderation,NLP
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/bumble-tech/multilingual-message-content-moderation-at-scale-ddd0da1e23ed
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+235
+
+Company:
+Spotify
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Personalize homepage content (podcasts, playlist, music)
+
+Title:
+The Rise (and Lessons Learned) of ML Models to Personalize Content on Home (Part II)
+
+
+Tag:
+recommender system
+
+
+Year:
+2021
+
+
+Link:
+https://engineering.atspotify.com/2021/11/the-rise-and-lessons-learned-of-ml-models-to-personalize-content-on-home-part-ii/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+236
+
+Company:
+Swiggy
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Estimate travel distance
+
+Title:
+Learning to Predict Two-Wheeler Travel Distance
+
+
+Tag:
+ops,ETA prediction
+
+
+Year:
+2021
+
+
+Link:
+https://bytes.swiggy.com/learning-to-predict-two-wheeler-travel-distance-752d836d741d
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+237
+
+Company:
+Expedia
+
+
+Industry:
+Travel,E-commerce and retail
+
+
+Short Description (< 5 words):
+Personalize travel search results
+
+Title:
+Personalized Ranking Model for Lodging
+
+
+Tag:
+search
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/expedia-group-tech/personalized-ranking-model-for-lodging-5be43ae975fe
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+238
+
+Company:
+Scribd
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Classify documents
+
+Title:
+Categorizing user-uploaded documents
+
+
+Tag:
+item classification
+
+
+Year:
+2021
+
+
+Link:
+https://tech.scribd.com/blog/2021/categorizing-user-uploaded-documents.html
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+239
+
+Company:
+Meta
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Personalize the newsfeed content
+
+Title:
+How machine learning powers Facebook’s News Feed ranking
+
+
+Tag:
+content personalization
+
+
+Year:
+2021
+
+
+Link:
+https://engineering.fb.com/2021/01/26/ml-applications/news-feed-ranking/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+240
+
+Company:
+Google
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Correct grammatical errors
+
+Title:
+Grammar Correction as You Type, on Pixel 6
+
+
+Tag:
+product feature,NLP,generative AI
+
+
+Year:
+2021
+
+
+Link:
+https://ai.googleblog.com/2021/10/grammar-correction-as-you-type-on-pixel.html
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+241
+
+Company:
+Nubank
+
+
+Industry:
+Fintech and banking
+
+
+Short Description (< 5 words):
+Predict conversions and attract new customers
+
+Title:
+Beyond prediction machines
+
+
+Tag:
+propensity to buy,causality
+
+
+Year:
+2021
+
+
+Link:
+https://building.nubank.com.br/beyond-prediction-machines/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+242
+
+Company:
+Grammarly
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Correct grammatical errors
+
+Title:
+Adversarial Grammatical Error Correction
+
+
+Tag:
+NLP,product feature,generative AI
+
+
+Year:
+2021
+
+
+Link:
+https://www.grammarly.com/blog/engineering/adversarial-grammatical-error-correction
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+243
+
+Company:
+Scribd
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Classify user-uploaded documents
+
+Title:
+Identifying Document Types at Scribd
+
+
+Tag:
+CV,item classification,product feature
+
+
+Year:
+2021
+
+
+Link:
+https://tech.scribd.com/blog/2021/identifying-document-types.html
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+244
+
+Company:
+Oda
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Predict driver's non-driving time
+
+Title:
+How we went from zero insight to predicting service time with a machine learning model — Part 1
+
+
+Tag:
+ETA prediction,ops
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/oda-product-tech/how-we-went-from-zero-insight-to-predicting-service-time-with-a-machine-learning-model-part-1-516b9545d02f
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+245
+
+Company:
+Mercado Libre
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Predict customer engagement and LTV
+
+Title:
+Causal Inference — Estimating Long-term Engagement
+
+
+Tag:
+causality
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/mercadolibre-tech/causal-inference-estimating-long-term-engagement-fac517929073
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+246
+
+Company:
+Dailymotion
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Target contextual advertising
+
+Title:
+How Deep Learning can boost Contextual Advertising Capabilities
+
+
+Tag:
+ad ranking / targeting
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/dailymotion/how-deep-learning-can-boost-contextual-advertising-capabilities-c9ca7c8fc4e9
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+247
+
+Company:
+Wayfair
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Optimize digital ads
+
+Title:
+Building Scalable and Performant Marketing ML Systems at Wayfair
+
+
+Tag:
+propensity to buy,ad ranking / targeting
+
+
+Year:
+2021
+
+
+Link:
+https://www.aboutwayfair.com/careers/tech-blog/building-scalable-and-performant-marketing-ml-systems-at-wayfair
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+248
+
+Company:
+Wayfair
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Show relevant content to new customers
+
+Title:
+Share of Voice Optimization Engine
+
+
+Tag:
+content personalization
+
+
+Year:
+2021
+
+
+Link:
+https://www.aboutwayfair.com/careers/tech-blog/share-of-voice-optimization-engine
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+249
+
+Company:
+Wayfair
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Optimize paid media marketing
+
+Title:
+Contextual Bandit for Marketing Treatment Optimization
+
+
+Tag:
+ad ranking / targeting
+
+
+Year:
+2021
+
+
+Link:
+https://www.aboutwayfair.com/careers/tech-blog/contextual-bandit-for-marketing-treatment-optimization
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+250
+
+Company:
+Microsoft
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Classify cloud workload types
+
+Title:
+How we used ML — and heuristic data labeling — to help customers with their cloud migration
+
+
+Tag:
+ops
+
+
+Year:
+2021
+
+
+Link:
+https://medium.com/data-science-at-microsoft/how-we-used-ml-and-heuristic-data-labeling-to-help-customers-with-their-cloud-migration-d3af7ff020fc
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+251
+
+Company:
+Github
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Help users find contribution opportunities
+
+Title:
+How we built the good first issues feature
+
+
+Tag:
+product feature
+
+
+Year:
+2020
+
+
+Link:
+https://github.blog/2020-01-22-how-we-built-good-first-issues/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+252
+
+Company:
+Linkedin
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Serve personalized learning recommendations
+
+Title:
+A closer look at the AI behind course recommendations on LinkedIn Learning, Part 1
+
+
+Tag:
+recommender system
+
+
+Year:
+2020
+
+
+Link:
+https://engineering.linkedin.com/blog/2020/course-recommendations-ai-part-one
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+253
+
+Company:
+Bumble
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Derive information from images
+
+Title:
+Image detection as a service
+
+
+Tag:
+CV,product feature
+
+
+Year:
+2020
+
+
+Link:
+https://medium.com/bumble-tech/image-detection-as-a-service-9bd463f74f43
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+254
+
+Company:
+Gojek
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Generate names for pickup points
+
+Title:
+How Gojek Uses NLP to Name Pickup Locations at Scale
+
+
+Tag:
+NLP,ops
+
+
+Year:
+2020
+
+
+Link:
+https://www.gojek.io/blog/nlp-cartobert
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+255
+
+Company:
+Mozilla
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Predict the outcome of software tests
+
+Title:
+Testing Firefox more efficiently with machine learning
+
+
+Tag:
+ops
+
+
+Year:
+2020
+
+
+Link:
+https://hacks.mozilla.org/2020/07/testing-firefox-more-efficiently-with-machine-learning/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+256
+
+Company:
+Adyen
+
+
+Industry:
+Fintech and banking
+
+
+Short Description (< 5 words):
+Predict probability of transaction success
+
+Title:
+Optimizing payment conversion rates with contextual multi-armed bandits
+
+
+Tag:
+ops
+
+
+Year:
+2020
+
+
+Link:
+https://www.adyen.com/blog/optimizing-payment-conversion-rates-with-contextual-multi-armed-bandits
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+257
+
+Company:
+Wayfair
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Detect payment fraud
+
+Title:
+Explainable Fraud Detection
+
+
+Tag:
+fraud detection
+
+
+Year:
+2020
+
+
+Link:
+https://www.aboutwayfair.com/tech-innovation/explainable-fraud-detection
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+258
+
+Company:
+Lyft
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Provide location suggestions
+
+Title:
+How Lyft predicts a rider’s destination for better in-app experience
+
+
+Tag:
+recommender system
+
+
+Year:
+2020
+
+
+Link:
+https://eng.lyft.com/how-lyft-predicts-your-destination-with-attention-791146b0a439
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+259
+
+Company:
+Zillow
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Generate floor plans from photos
+
+Title:
+Zillow Floor Plan: Training Models to Detect Windows, Doors and Openings in Panoramas
+
+
+Tag:
+CV,product feature
+
+
+Year:
+2020
+
+
+Link:
+https://www.zillow.com/tech/training-models-to-detect-windows-doors-in-panos/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+260
+
+Company:
+Linkedin
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Serve personalized learning recommendations
+
+Title:
+A closer look at the AI behind course recommendations on LinkedIn Learning, Part 2
+
+
+Tag:
+recommender system
+
+
+Year:
+2020
+
+
+Link:
+https://engineering.linkedin.com/blog/2020/course-recommendations-ai-part-two
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+261
+
+Company:
+Doordash
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Optimize marketing spending
+
+Title:
+Optimizing DoorDash’s Marketing Spend with Machine Learning
+
+
+Tag:
+ops
+
+
+Year:
+2020
+
+
+Link:
+https://doordash.engineering/2020/07/31/optimizing-marketing-spend-with-ml/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+262
+
+Company:
+Etsy
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Personalize e-commerce search
+
+Title:
+Bringing Personalized Search to Etsy
+
+
+Tag:
+search
+
+
+Year:
+2020
+
+
+Link:
+https://www.etsy.com/codeascraft/bringing-personalized-search-to-etsy/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+263
+
+Company:
+Airbnb
+
+
+Industry:
+Travel,E-commerce and retail
+
+
+Short Description (< 5 words):
+Rank travel search results
+
+Title:
+Improving Deep Learning for Ranking Stays at Airbnb
+
+
+Tag:
+search
+
+
+Year:
+2020
+
+
+Link:
+https://medium.com/airbnb-engineering/improving-deep-learning-for-ranking-stays-at-airbnb-959097638bde
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+264
+
+Company:
+Wayfair
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Improve search experience for new customers
+
+Title:
+Bayesian Product Ranking at Wayfair
+
+
+
+Tag:
+search
+
+
+Year:
+2020
+
+
+Link:
+https://www.aboutwayfair.com/tech-innovation/bayesian-product-ranking-at-wayfair
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+265
+
+Company:
+Twitter
+
+
+Industry:
+Social platforms
+
+
+Short Description (< 5 words):
+Predict value of ad requests
+
+Title:
+Using machine learning to predict the value of ad requests
+
+
+Tag:
+ad ranking / targeting
+
+
+Year:
+2020
+
+
+Link:
+https://blog.twitter.com/engineering/en_us/topics/insights/2020/using-machine-learning-to-predict-the-value-of-ad-requests
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+266
+
+Company:
+Zynga
+
+
+Industry:
+Gaming
+
+
+Short Description (< 5 words):
+Personalize push notification timing
+
+Title:
+Deep Reinforcement Learning in Production Part 2: Personalizing User Notifications
+
+
+Tag:
+content personalization
+
+
+Year:
+2020
+
+
+Link:
+https://towardsdatascience.com/deep-reinforcement-learning-in-production-part-2-personalizing-user-notifications-812a68ce2355
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+267
+
+Company:
+Zillow
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Rank homes to buy 
+
+Title:
+Guided Search — Personalized Search Refinements to Help Customers Find their Dream Home
+
+
+Tag:
+search,product feature
+
+
+Year:
+2020
+
+
+Link:
+https://www.zillow.com/tech/personalized-search-refinements/ 
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+268
+
+Company:
+Picnic
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Predict delivery drop times
+
+Title:
+Optimal drop times using machine learning
+
+
+Tag:
+ETA prediction
+
+
+Year:
+2020
+
+
+Link:
+https://blog.picnic.nl/the-trade-off-between-efficiency-and-being-on-time-optimizing-drop-times-using-machine-learning-d3f6fb1b0f31
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+269
+
+Company:
+Shopify
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Categorize e-commerce products
+
+Title:
+Categorizing Products at Scale
+
+
+Tag:
+item classification
+
+
+Year:
+2020
+
+
+Link:
+https://shopify.engineering/categorizing-products-at-scale
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+270
+
+Company:
+Gojek
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Target cross-sell to existing users 
+
+Title:
+How We Built a Matchmaking Algorithm to Cross-Sell Products
+
+
+Tag:
+recommender system,propensity to buy
+
+
+Year:
+2020
+
+
+Link:
+https://www.gojek.io/blog/how-we-built-a-matchmaking-algorithm-to-cross-sell-products
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+271
+
+Company:
+PayPal
+
+
+Industry:
+Fintech and banking
+
+
+Short Description (< 5 words):
+Detect payment fraud 
+
+Title:
+Multi-Domain Fraud Detection While Reducing Good User Declines
+
+
+Tag:
+fraud detection
+
+
+Year:
+2020
+
+
+Link:
+https://medium.com/paypal-tech/multi-domain-fraud-detection-while-reducing-good-user-declines-part-i-e8bba5b07da8
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+272
+
+Company:
+OLX
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Detect stolen photos 
+
+Title:
+Fighting fraud with Triplet Loss
+
+
+Tag:
+fraud detection,CV,search
+
+
+Year:
+2020
+
+
+Link:
+https://tech.olx.com/fighting-fraud-with-triplet-loss-86e5f79c7a3e
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+273
+
+Company:
+Stripe
+
+
+Industry:
+Fintech and banking
+
+
+Short Description (< 5 words):
+Detect fraud in online payments
+
+Title:
+Similarity clustering to catch fraud rings
+
+
+Tag:
+fraud detection
+
+
+Year:
+2020
+
+
+Link:
+https://stripe.com/blog/similarity-clustering
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+274
+
+Company:
+Doordash
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Search for restaurants and dishes
+
+Title:
+Things Not Strings: Understanding Search Intent with Better Recall
+
+
+Tag:
+search
+
+
+Year:
+2020
+
+
+Link:
+https://doordash.engineering/2020/12/15/understanding-search-intent-with-better-recall/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+275
+
+Company:
+Spotify
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Recommend shortcuts for homepage
+
+Title:
+Reach for the Top: How Spotify Built Shortcuts in Just Six Months
+
+
+Tag:
+recommender system,product feature
+
+
+Year:
+2020
+
+
+Link:
+https://engineering.atspotify.com/2020/04/reach-for-the-top-how-spotify-built-shortcuts-in-just-six-months/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+276
+
+Company:
+Wayfair
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Recommend complementary products
+
+Title:
+The Visual Complements Model (ViCs): Complementary Product Recommendations From Visual Cues
+
+
+Tag:
+CV,recommender system
+
+
+Year:
+2020
+
+
+Link:
+https://www.aboutwayfair.com/tech-innovation/the-visual-complements-model-vics-complementary-product-recommendations-from-visual-cues
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+277
+
+Company:
+Dailymotion
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Automatically categorize videos 
+
+Title:
+How we used Cross-Lingual Transfer Learning to categorize our content
+
+
+Tag:
+item classification,NLP
+
+
+Year:
+2020
+
+
+Link:
+https://medium.com/dailymotion/how-we-used-cross-lingual-transfer-learning-to-categorize-our-content-c8e0f9c1c6c3
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+278
+
+Company:
+Duolingo
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Teaching foreign languages
+
+Title:
+How Duolingo uses AI in every part of its app
+
+
+Tag:
+product feature
+
+
+Year:
+2020
+
+
+Link:
+https://venturebeat.com/ai/how-duolingo-uses-ai-in-every-part-of-its-app/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+279
+
+Company:
+Firefox
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Automatically assign new untriaged bugs
+
+Title:
+Teaching machines to triage Firefox bugs
+
+
+Tag:
+ops
+
+
+Year:
+2019
+
+
+Link:
+https://hacks.mozilla.org/2019/04/teaching-machines-to-triage-firefox-bugs/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+280
+
+Company:
+Dropbox
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Predict files users search for
+
+Title:
+Using machine learning to predict what file you need next
+
+
+Tag:
+product feature,recommender system
+
+
+Year:
+2019
+
+
+Link:
+https://dropbox.tech/machine-learning/content-suggestions-machine-learning
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+281
+
+Company:
+Zoominfo
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Predict data accuracy
+
+Title:
+Using Machine Learning to Determine Contact Accuracy Scores
+
+
+Tag:
+product feature
+
+
+Year:
+2019
+
+
+Link:
+https://engineering.zoominfo.com/machine-learning-accuracy-scores
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+282
+
+Company:
+Airbnb
+
+
+Industry:
+Travel,E-commerce and retail
+
+
+Short Description (< 5 words):
+Recommend marketplace items
+
+Title:
+Machine Learning-Powered Search Ranking of Airbnb Experiences
+
+
+Tag:
+search
+
+
+Year:
+2019
+
+
+Link:
+https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-110b4b1a0789
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+283
+
+Company:
+Lyft
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Predict location of traffic control elements
+
+Title:
+Detecting Stop Signs and Traffic Signals: Deep Learning at Lyft Mapping
+
+
+Tag:
+ops,ETA prediction
+
+
+Year:
+2019
+
+
+Link:
+https://eng.lyft.com/detecting-stop-signs-and-traffic-signals-deep-learning-at-lyft-mapping-75bac609c231
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+284
+
+Company:
+Gojek
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Personalize search results
+
+Title:
+The Secret Sauce Behind Search Personalisation
+
+
+Tag:
+search
+
+
+Year:
+2019
+
+
+Link:
+https://www.gojek.io/blog/the-secret-sauce-behind-search-personalisation
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+285
+
+Company:
+Instacart
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Spot lost demand
+
+Title:
+Modeling the unseen
+
+
+Tag:
+demand forecasting
+
+
+Year:
+2019
+
+
+Link:
+https://tech.instacart.com/modeling-the-unseen-6a51c9a02430
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+286
+
+Company:
+Apple
+
+
+Industry:
+Tech
+
+
+Short Description (< 5 words):
+Identify text language
+
+Title:
+Language Identification from Very Short Strings
+
+
+Tag:
+NLP,product feature
+
+
+Year:
+2019
+
+
+Link:
+https://machinelearning.apple.com/research/language-identification-from-very-short-strings
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+287
+
+Company:
+Stitch Fix
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Extract information from customer notes
+
+Title:
+Give Me Jeans not Shoes: How BERT Helps Us Deliver What Clients Want
+
+
+Tag:
+NLP,product feature,search
+
+
+Year:
+2019
+
+
+Link:
+https://multithreaded.stitchfix.com/blog/2019/07/15/give-me-jeans/
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+288
+
+Company:
+Lyft
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Detect errors in maps
+
+Title:
+How Lyft Creates Hyper-Accurate Maps from Open-Source Maps and Real-Time Data
+
+
+Tag:
+ops,ETA prediction
+
+
+Year:
+2019
+
+
+Link:
+https://eng.lyft.com/how-lyft-creates-hyper-accurate-maps-from-open-source-maps-and-real-time-data-8dcf9abdd46a
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+289
+
+Company:
+King
+
+
+Industry:
+Gaming
+
+
+Short Description (< 5 words):
+Automate playtesting pipeline
+
+Title:
+Human-Like Playtesting with Deep Learning
+
+
+Tag:
+ops
+
+
+Year:
+2019
+
+
+Link:
+https://medium.com/techking/human-like-playtesting-with-deep-learning-92adafffe921
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+290
+
+Company:
+Gojek
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Analyse the relevance of search results 
+
+Title:
+Is This What You Were Looking For?
+
+
+Tag:
+search
+
+
+Year:
+2019
+
+
+Link:
+https://www.gojek.io/blog/is-this-what-you-were-looking-for
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+291
+
+Company:
+Lyft
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Build a marketing automation platform
+
+Title:
+Building Lyft’s Marketing Automation Platform
+
+
+Tag:
+ad ranking / targeting
+
+
+Year:
+2019
+
+
+Link:
+https://eng.lyft.com/lyft-marketing-automation-b43b7b7537cc
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+292
+
+Company:
+Wayfair
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Model uplift
+
+Title:
+Modeling Uplift Directly: Uplift Decision Tree with KL Divergence and Euclidean Distance as Splitting Criteria
+
+
+Tag:
+causality
+
+
+Year:
+2019
+
+
+Link:
+https://www.aboutwayfair.com/tech-innovation/modeling-uplift-directly-uplift-decision-tree-with-kl-divergence-and-euclidean-distance-as-splitting-criteria
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+293
+
+Company:
+Gojek
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Accurately forecast demand
+
+Title:
+Under the Hood of Gojek’s Automated Forecasting Tool
+
+
+Tag:
+demand forecasting
+
+
+Year:
+2019
+
+
+Link:
+https://www.gojek.io/blog/under-the-hood-of-gojeks-automated-forecasting-tool
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+294
+
+Company:
+Lyft
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Predict rides and driver hours
+
+Title:
+Making cohort-based long-term forecasts at Lyft
+
+
+Tag:
+demand forecasting
+
+
+Year:
+2019
+
+
+Link:
+https://eng.lyft.com/making-long-term-forecasts-at-lyft-fac475b3ba52
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+295
+
+Company:
+Lyft
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Predict fraudulent activity
+
+Title:
+Fingerprinting fraudulent behavior
+
+
+Tag:
+fraud detection
+
+
+Year:
+2018
+
+
+Link:
+https://eng.lyft.com/fingerprinting-fraudulent-behavior-6663d0264fad
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+296
+
+Company:
+Netflix
+
+
+Industry:
+Media and streaming
+
+
+Short Description (< 5 words):
+Improve streaming quality
+
+Title:
+Using Machine Learning to Improve Streaming Quality at Netflix
+
+
+Tag:
+ops,product feature
+
+
+Year:
+2018
+
+
+Link:
+https://netflixtechblog.com/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+297
+
+Company:
+Lyft
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Identify user fraud
+
+Title:
+From shallow to deep learning in fraud
+
+
+Tag:
+fraud detection
+
+
+Year:
+2018
+
+
+Link:
+https://eng.lyft.com/from-shallow-to-deep-learning-in-fraud-9dafcbcef743?gi=6e6a315e3f92
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+298
+
+Company:
+Instacart
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Predict grocery item availability
+
+Title:
+Predicting the real-time availability of 200 million grocery items
+
+
+Tag:
+demand forecasting
+
+
+Year:
+2018
+
+
+Link:
+https://tech.instacart.com/predicting-real-time-availability-of-200-million-grocery-items-in-us-canada-stores-61f43a16eafe
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+299
+
+Company:
+Lyft
+
+
+Industry:
+Delivery and mobility
+
+
+Short Description (< 5 words):
+Personalize marketing offers
+
+Title:
+Empowering personalized marketing with machine learning
+
+
+Tag:
+ad ranking / targeting,content personalization
+
+
+Year:
+2018
+
+
+Link:
+https://eng.lyft.com/empowering-personalized-marketing-with-machine-learning-fd36e6bdeca6
+
+--------------------------------------------------------------------------------------------------------------------------
+        
+300
+
+Company:
+Instacart
+
+
+Industry:
+E-commerce and retail
+
+
+Short Description (< 5 words):
+Optimize food delivery logistics
+
+Title:
+Space, Time and Groceries
+
+
+Tag:
+ETA prediction,ops
+
+
+Year:
+2017
+
+
+Link:
+https://tech.instacart.com/space-time-and-groceries-a315925acf3a
+
+--------------------------------------------------------------------------------------------------------------------------

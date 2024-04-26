@@ -16,7 +16,7 @@
                 },
                 "data": {
                     "attributes": {
-                        "entityType": {
+                        "one": {
                             "values": [
                                 {
                                     "value": "customer",
