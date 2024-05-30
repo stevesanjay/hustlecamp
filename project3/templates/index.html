@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome</h1>
+        <a href="{{ url_for('login', user_type='candidate') }}" class="box">Candidate</a>
+        <a href="{{ url_for('login', user_type='admin') }}" class="box">Admin</a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Candidate</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Candidate Audio Upload</h1>
+        <form method="post" enctype="multipart/form-data">
+            <label for="audio">Upload Audio File:</label>
+            <input type="file" id="audio" name="audio" required>
+            <button type="submit">Upload</button>
+        </form>
+        <div class="message">
+            {% if message %}
+                <p>{{ message }}</p>
+            {% endif %}
+        </div>
+        <a href="{{ url_for('candidate_feedback') }}">View Feedback</a>
+        <a class="back-button" href="{{ url_for('index') }}">Back</a>
+    </div>
+</body>
+</html>

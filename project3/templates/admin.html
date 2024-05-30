@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Admin Dashboard</h1>
+        <p>Total candidate logins: {{ login_attempts }}</p>
+        <h2>Uploaded Files</h2>
+        <ul>
+            {% for key, file in files.items() %}
+                <li>
+                    <strong>{{ key.split(' ')[0] }}</strong> - 
+                    <a href="{{ file }}">{{ file }}</a>
+                    <a href="{{ url_for('feedback_page', filename=file|urlencode) }}">Give Feedback</a>
+                </li>
+            {% endfor %}
+        </ul>
+        <a class="back-button" href="{{ url_for('index') }}">Back</a>
+    </div>
+</body>
+</html>

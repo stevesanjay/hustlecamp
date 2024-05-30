@@ -1,0 +1,264 @@
+{
+	"info": {
+		"_postman_id": "724d4c81-34b0-4c5a-bca7-6c31dfee4319",
+		"name": "FastAPI-MinIO",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "1614505"
+	},
+	"item": [
+		{
+			"name": "home",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://0.0.0.0:8000/",
+					"protocol": "http",
+					"host": [
+						"0",
+						"0",
+						"0",
+						"0"
+					],
+					"port": "8000",
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Upload",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/home/rajaraman/Downloads/3.png"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://0.0.0.0:8000/upload/",
+					"protocol": "http",
+					"host": [
+						"0",
+						"0",
+						"0",
+						"0"
+					],
+					"port": "8000",
+					"path": [
+						"upload",
+						""
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "success",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "file",
+									"type": "file",
+									"src": "/home/rajaraman/Downloads/3.png"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://0.0.0.0:8000/upload/",
+							"protocol": "http",
+							"host": [
+								"0",
+								"0",
+								"0",
+								"0"
+							],
+							"port": "8000",
+							"path": [
+								"upload",
+								""
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "date",
+							"value": "Thu, 23 May 2024 02:18:51 GMT"
+						},
+						{
+							"key": "server",
+							"value": "uvicorn"
+						},
+						{
+							"key": "content-length",
+							"value": "41"
+						},
+						{
+							"key": "content-type",
+							"value": "application/json"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"message\": \"Successfully uploaded 3.png\"\n}"
+				},
+				{
+					"name": "failure",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "one",
+									"type": "file",
+									"src": "/home/rajaraman/datasets/fpr-datasets/smart-data-collector-input/nightlamp.txt"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://0.0.0.0:8000/upload/",
+							"protocol": "http",
+							"host": [
+								"0",
+								"0",
+								"0",
+								"0"
+							],
+							"port": "8000",
+							"path": [
+								"upload",
+								""
+							]
+						}
+					},
+					"status": "Unprocessable Entity",
+					"code": 422,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "date",
+							"value": "Tue, 23 Apr 2024 04:45:46 GMT"
+						},
+						{
+							"key": "server",
+							"value": "uvicorn"
+						},
+						{
+							"key": "content-length",
+							"value": "89"
+						},
+						{
+							"key": "content-type",
+							"value": "application/json"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"detail\": [\n        {\n            \"type\": \"missing\",\n            \"loc\": [\n                \"body\",\n                \"file\"\n            ],\n            \"msg\": \"Field required\",\n            \"input\": null\n        }\n    ]\n}"
+				}
+			]
+		},
+		{
+			"name": "one",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/home/rajaraman/datasets/fpr-datasets/smart-data-collector-input/nightlamp.txt"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://0.0.0.0:8000/test",
+					"protocol": "http",
+					"host": [
+						"0",
+						"0",
+						"0",
+						"0"
+					],
+					"port": "8000",
+					"path": [
+						"test"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "failure",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "one",
+									"type": "file",
+									"src": "/home/rajaraman/datasets/fpr-datasets/smart-data-collector-input/nightlamp.txt"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://0.0.0.0:8000/upload/",
+							"protocol": "http",
+							"host": [
+								"0",
+								"0",
+								"0",
+								"0"
+							],
+							"port": "8000",
+							"path": [
+								"upload",
+								""
+							]
+						}
+					},
+					"status": "Unprocessable Entity",
+					"code": 422,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "date",
+							"value": "Tue, 23 Apr 2024 04:45:46 GMT"
+						},
+						{
+							"key": "server",
+							"value": "uvicorn"
+						},
+						{
+							"key": "content-length",
+							"value": "89"
+						},
+						{
+							"key": "content-type",
+							"value": "application/json"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"detail\": [\n        {\n            \"type\": \"missing\",\n            \"loc\": [\n                \"body\",\n                \"file\"\n            ],\n            \"msg\": \"Field required\",\n            \"input\": null\n        }\n    ]\n}"
+				}
+			]
+		}
+	]
+}
