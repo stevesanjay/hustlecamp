@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Audio</title>
+</head>
+<body>
+    <h1>Upload Audio Files</h1>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <input type="file" name="audio_files" id="audio_files" multiple>
+        <br><br>
+        <button type="submit">Upload Files</button>
+    </form>
+    <br><br>
+    <h2>Uploaded Audio Files:</h2>
+    <ul>
+        {% for audio_id, audio_list in data.items() %}
+            {% for audio_data in audio_list %}
+                <li>
+                    <a href="{{ url_for('play_audio', audio_id=audio_id, index=loop.index0) }}">{{ audio_data['original_filename'] }}</a>
+                </li>
+            {% endfor %}
+        {% endfor %}
+    </ul>
+</body>
+</html>
+
+
+
+
+
