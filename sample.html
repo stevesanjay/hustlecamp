@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script>
+        var div =document.getElementById('menu');
+        var display =0;
+        function myFunction(){
+       q2
+
+        }
+    </script>
+<style>
+header img{
+width:30px ;
+
+}
+.bg-white{
+    width: 160px;
+    height: 30px;
+    border: 1px solid rgb(202, 192, 192);
+    border-radius: 20px;
+}
+.text-success{
+    margin-top: -30px;
+    padding-left: 30px;
+    font-size: 25px;
+}
+.me-3{
+    margin-right: 90px;
+}
+#p1{
+    margin-right: 90px;
+}
+#menu{
+    display: inline;
+}
+.d-flex{
+    margin-top: -30px;
+}
+#btn{
+    height: 30px;
+    background-color: rgb(186, 228, 214);
+    border: 1px solid rgb(186, 228, 214) ;
+    border-radius: 10px;
+    margin-top: 60px;
+}
+h1{
+    font-weight: 900;
+    color: rgb(2, 2, 75);
+    margin-top: -5px;
+}
+.contant{
+    color: #333;
+    text-shadow:#333;
+    word-wrap: break-word;
+    width: 80%;
+    font-size: 20px;
+    text-shadow: 1px 1px #333;
+}
+.try{
+    width: 180px;
+    height: 40px;
+    border-radius: 40px;
+    background-color: rgb(6, 6, 90);
+    border: 1px solid rgb(6, 6, 90);
+    color:#fff;
+    text-shadow:  1px 1px #fff;
+}
+.contant1{
+    background-color: #f1eeee;
+}
+h3{
+    color: #333;
+    font-size: 15px;
+margin-top: 10px;
+
+}
+.btn1{
+   
+  font-size: 15px;
+    margin:0 0 20px 20px ;
+    border: 1px solid #c7c6c6;
+    border-radius: 20px;
+}
+.btn1:hover{
+background-color: rgb(203, 235, 224);
+color: lightseagreen;
+border: 1px solid lightseagreen;
+}
+#container{
+    background-color: #fff;
+    text-align: center;
+    height: 320px;
+    border:  1px solid #f1eeee;
+    border-radius: 5px;
+}
+.btn4:hover{
+    background-color:rgb(236, 154, 154);
+    border: none;
+    
+}
+#contant3{
+    height: 530px;
+  
+}
+.btn-1{
+   display: none;
+}
+@media(max-width:727px) {
+    #contant3{
+        margin-top: 20px;
+    }
+#menu{
+  
+ display: none;
+   flex-direction: column;
+   margin-left: 100px;
+   margin-top: 50px;
+   margin-left: -170px;
+   background-color: #e9e2e2;
+   width: 200px;
+   height: 80px;
+   border-radius: 5px;
+   
+}
+
+#p1{
+    padding-left: 80px;
+   
+}
+.btn-1{
+    display: inline;
+    background-color: rgb(193, 247, 193);
+    border:1px solid rgb(143, 230, 143) ;
+    width: 50px;
+    height: 40px;
+    border-radius:60%;
+margin-top:-120px;
+margin-left: 350px;
+cursor: pointer;
+    font-size: 20px;
+  
+}
+ .btn-1 i{
+    cursor: pointer;
+}
+.bg-white{
+    margin-left: 20px;
+}
+.showmenu{
+    display: block;
+}
+}
+.icon-img{
+    background-color:rgb(179, 229, 179) ;
+    border:1px solid rgb(179, 229, 179);
+    border-radius: 10px;
+    color:rgb(66, 228, 66) ;
+}
+.fa-check{
+    color:rgb(66, 228, 66) ;
+}
+video:hover{
+border: none;
+}
+video{ 
+    margin-top: 50px;}
+   .fa-circle-xmark{
+  
+    color:red;
+   }
+   .btn-x{
+    width: 220px;
+    height: 80px;
+    background-color:rgb(253, 214, 191);
+    border-radius: 10px;
+    border: 1px solid rgb(253, 214, 191);
+    font-size: 25px;
+    color: red;
+    margin-bottom: 10px;
+   }
+   .fa-circle-check{
+    color:rgb(204, 236, 204);
+   }
+   .btn-y{
+    width: 280px;
+    height: 80px;
+    border-radius: 10px;
+    border: 1px solid rgb(253, 214, 191);
+    font-size: 25px;
+    color:#fff;
+    margin-bottom: 10px;
+    background-color: rgb(119, 231, 119);
+    margin-left: -20px;
+   }
+   #container4{
+    background-color: #f1eeee;
+   
+   }
+</style>
+
+</head>
+<body>
+    <header class="m-3" >
+        <div class="col-12 col-md-6">  
+             <img src="./image/logo.png">
+            <h1 class="text-success">interviewsby.ai</h1></div>
+            
+        <div class="d-flex justify-content-md-end " >
+            <div >
+                <button class="btn-1 "> <i class="fa-solid fa-bars" onclick="myFunction()"></i></button>
+            </div>
+            <div class="div"  id="menu"  >
+            <p class="me-3" id="p1">Pricing</p>
+            <button class="bg-white ">Sign with Google</button>
+        </div>
+        </div>
+    </header>
+    <div class="container" >
+    <div class="row">
+        <div class=" col-12 col-lg-6 col-md-6 col-sm-12 " style="width: 40%;">
+<button id="btn"><p >#1 AI Interview Prep</p></button>
+<h1 class="pt-2">Boost your</h1> <h1>confidence,</h1><h1>ace the job interview</h1>
+<p class="contant">Practice job interview questions tailored to your job description. Get instant AI feedback and suggestions to improve your answers.</p>
+<button class="try">
+    Try now for free
+</button>  
+<p style="text-shadow: 1px 1px #c7c6c6; padding-left: 50px;" >No credit card needed</p>      
+</div>
+        <div class="col-12 col-lg-6 col-md-6 contant1 ms-2 mt-sm-2 " id="contant3">
+<h3>Turn a <span>job description</span> into <span>interview questions</span> to practice with:</h3>
+         <div class="col">
+            <div class="row-md-4 row-lg-4 row-sm-6">
+                <button class="btn1">Custom Job Description</button>
+                <button class="btn1">Business Analyst</button>
+                <button class="btn1">Product Manager</button>
+            <button class="btn1">Software Engineer</button>
+            <button class="btn1">Marketing Specialist</button>
+            </div>
+          <div class="container" id="container">
+            <div><h5>Can you walk me through a product you've managed from its conceptual phase to launch, highlighting the key milestones?</h5></div>
+            <span class="display-4 " style="font-weight: 600; color: #c7c6c6; ">0:0/2:00</span>
+            <div>
+            <button class="btn4 mt-2" style="width: 50px; height: 50px; background-color: brown; border-radius: 50px; color: #fff; border:  1px solid brown;"><i class="fa-solid fa-microphone-lines"></i></button>
+         </div>
+         <hr class="pt-2" >
+         <h6  class="d-flex justify-content-md-start pt-3">Feedback</h6>
+         <hr >
+         <h6 class="d-flex justify-content-md-start pt-3">Message</h6>
+        
+        </div>
+         </div>   
+        </div>
+    </div>
+</div>
+<div class="d-flex justify-content-center mt-5">
+<button style="background-color: rgb(179, 229, 179); border: 1px solid rgb(179, 229, 179);color:rgb(66, 228, 66); border-radius: 10px;"
+>How it works</button>
+
+</div>
+<div  class="d-flex justify-content-center mt-5 ml-sm-2"><h1 style="color: #000; font-weight: 400 ; font-size: 22px;">
+    Give yourself an unfair advantage in interviews </h1>
+</div>
+ <div  class="d-flex justify-content-center mt-2 ml-3"><h4 style="font-size: 20px; color: #333;">Wouldn't it be nice to know which questions the recruiters will ask you (and how to answer them) before the interview?</h4></div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 col- lg-6 col-sm-12 mt-md-5 col-12 ">
+            <div style="margin-top: 50px;">
+            <button class="icon-img"><i class="fa-solid fa-calendar-days"></i></button>
+        </div>
+        <div><h2>Step 1 - Generate questions</h2></div>
+        <p style="font-size: 18px;">Paste a job description, <span style=" color: rgb(66, 228, 66) ">receive realistic interview questions, </span>tailored to the role.</p>
+        <div >
+        <i class="fa-solid fa-check"></i><p style="margin-top: -25px;margin-left: 30px;">Behavioral and technical questions</p></div>
+        <div>
+        <i class="fa-solid fa-check"></i><p style="margin-top: -25px;margin-left: 30px;">Works for all job descriptions and industries</p>
+        </div>
+        </div>
+        <div class="col-md-6 col- lg-6 col-sm-12 col-12 ">
+            <video width="500px " autoplay loop muted>
+
+                <source src="./image/video.mp4" type="video/mp4">
+              </video>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 col- lg-6 col-sm-12  col-12 mt-md-5 ">
+            <div >
+            <button class="icon-img"><i class="fa-solid fa-calendar-days"></i></button>
+        </div>
+        <div><h2>Step 2 - Practice answering</h2></div>
+        <p style="font-size: 18px;">Record your answer with <span style=" color: rgb(66, 228, 66) ">audio or text </span> , simulating the interview experience.</p>
+        <div >
+        <i class="fa-solid fa-check"></i><p style="margin-top: -25px;margin-left: 30px;">Multiple input options to answer (audio/text)</p></div>
+        <div>
+        <i class="fa-solid fa-check"></i><p style="margin-top: -25px;margin-left: 30px;">Data is private, audio is not stored</p>
+        </div>
+        </div>
+        <div class="col-md-6 col- lg-6 col-sm-12 col-12 ">
+            <video width="500px " autoplay loop muted>
+
+                <source src="./image/video1.mp4" type="video/mp4">
+              </video>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 col- lg-6 col-sm-12  col-12 mt-md-5 ">
+            <div >
+            <button class="icon-img"><i class="fa-solid fa-calendar-days"></i></button>
+        </div>
+        <div><h2>Step 3 - Improve with AI coaching</h2></div>
+        <p style="font-size: 18px;">Get instant <span style=" color: rgb(66, 228, 66) ">AI feedback </span>AI feedback and an improved sample response showing how you could've answered the question. </p>
+        <div >
+        <i class="fa-solid fa-check"></i><p style="margin-top: -25px;margin-left: 30px;">Based on proven interview frameworks like the STAR method</p></div>
+       
+        </div>
+        <div class="col-md-6 col- lg-6 col-sm-12 col-12 ">
+            <video width="500px " autoplay loop muted>
+
+                <source src="./image/video3.mp4" type="video/mp4">
+              </video>
+        </div>
+    </div>
+</div>
+<div class=" d-flex justify-content-center mt-5" >
+<button class="try" >
+    Try now for free
+</button> 
+    </div>
+      <div class="container mt-5" id="container4">
+    <div class="row">
+        <div class="col-md-6 col-sm-12 col-lg-6 " style="margin-top: 70px;" ><h1 style="font-size: 35px;">Make your next job </h1><h1 style="font-size: 35px;">interview</h1>
+          <h1 style="font-size: 35px;">  stress free thanks to AI</h1></div>
+        <div class="col-md-6 col-sm-12" >
+            <div class="row">
+                <div class="col-md-6 col-sm-12 col-lg-6 mt-5">
+                    <h5>Without Interviews by AI</h5>
+<button class="btn-x mr-5 "><i class="fa-sharp fa-solid fa-circle-xmark"></i>Unprepared </button>
+<button class="btn-x mr-5"><i class="fa-sharp fa-solid fa-circle-xmark"></i>Nervous</button>
+<button class="btn-x"><i class="fa-sharp fa-solid fa-circle-xmark"></i>Ghosted</button>
+                     </div>
+                <div class="col-md-6 col-sm-12 col-lg-6 mt-5 ">
+                    <h5>With Interviews by AI</h5>
+                    <button class="btn-y"><i class="fa-solid fa-circle-check"></i>Organized and ready</button>
+                    <button class="btn-y"><i class="fa-solid fa-circle-check"></i>Confident answers</button>
+                    <button class="btn-y"><i class="fa-solid fa-circle-check"></i>Receive final offers</button>
+                </div>
+            </div>
+        </div>
+    </div>  
+    </div>
+    <div class="mt-5 d-flex justify-content-center" >
+    <button style="background-color: rgb(179, 229, 179); border: 1px solid rgb(179, 229, 179);color:rgb(66, 228, 66); border-radius: 10px;"
+    >Success stories</button>
+    </div>
+</body>
+</html>
